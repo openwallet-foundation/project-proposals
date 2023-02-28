@@ -18,6 +18,21 @@ It contains the [proposal template](./proposal-template.md) and projects
 that have been proposed for consideration to the OpenWallet Foundation TAC.
 
 # Instructions for Proposing a Project
+The seed of a new project has to be vetted in a public forum like the
+[TAC mailing list](https://lists.openwallet.foundation/g/TAC) before
+creating a project proposal. It is best if the project has specific maintainers
+with a common software-implemented mission. A clear statement of the problem
+and its technical details are helpful to coalesce the community around a
+solution and prompt volunteers.
+
+If this project proposal is for a feature that is unique to an existing
+OpenWallet Foundation project, please reach out to that project’s maintainers
+to see about joining that project instead of creating a new project proposal.
+If discussion with the existing project community leads to not joining, then
+the proposal will be reviewed on its own merits as an independent project.
+Please note in the proposal the conversations with that project and the reason
+for not joining their efforts.
+
 1. Fork [this repository](https://github.com/openwallet-foundation/project-proposals).
 2. Copy the `proposal-template.md` file to the `projects` directory and rename
 the file to `project-name.md`, where _project-name_ is the name of your project.
