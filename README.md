@@ -19,7 +19,8 @@ that have been proposed for consideration to the OpenWallet Foundation TAC.
 
 # Instructions for Proposing a Project
 1. Fork [this repository](https://github.com/openwallet-foundation/project-proposals).
-2. Copy the `proposal-template.md` file to the `projects` directory and rename the file to `project-name.md`, where _project-name_ is the name of your project.
+2. Copy the `proposal-template.md` file to the `projects` directory and rename
+the file to `project-name.md`, where _project-name_ is the name of your project.
 3. Complete the template.
 4. Commit your changes with proper sign-off. This means that your commit
 log message must contain a line that looks like the following one,
