@@ -4,7 +4,7 @@
 The OpenWallet Foundation (OWF) is the home to various open source,
 open data and/or other open projects relating to or supporting development
 of digital wallets, including infrastructure and support initiatives related.
-The [OWF Project Lifecycle](https://tkuhrt.github.io/owf-tac-proposal/governance/project-lifecycle/)
+The [OWF Project Lifecycle](https://openwallet-foundation.github.io/tac/governance/project-lifecycle/)
 specifies the stages that a project may be admitted under and what the
 criteria and expectations are for a given stage, as well as the acceptance
 criteria for a project to move from one stage to another.
