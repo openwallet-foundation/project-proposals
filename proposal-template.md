@@ -5,7 +5,7 @@ _Include the name of project being proposed._
 _Include a description of the project, including what it does, why it is valuable, the origin and history, and other information that will allow others to understand what the project will include._
 
 # Alignment with the OpenWallet Foundation Mission
-_Include a statement on alignment with the OpenWallet Foundation mission._
+_Include a statement on alignment with the [OpenWallet Foundation mission](https://openwallet-foundation.github.io/tac/governance/charter/)._
 
 # Current Code of Conduct
 _Has this project adopted a Code of Conduct? If so, please include a link to it._
@@ -38,7 +38,7 @@ _Briefly describe the project's leadership team and decision-making process._
 _Include links to any documented governance practices._
 
 # Preferred Maturity Level
-_Specify the stage that you want this project to enter._
+_Specify the stage that you want this project to enter. See [project lifecycle](https://openwallet-foundation.github.io/tac/governance/project-lifecycle/#stages) for information on the different stages._
 
 # Communication Channels
 _If already exists, include a list of project's official communication channels (slack, irc, mailing lists)._
