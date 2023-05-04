@@ -8,7 +8,7 @@ A Kotlin implementation of the [Selective Disclosure for JWTs](https://www.ietf.
 
 # Alignment with the OpenWallet Foundation Mission
 
-This library implements the Selective Disclosure spec, which is an important building block for future digital identity wallets. Since it is written in Kotlin, it can be used widely, e.g. in web backends or on Android.
+This library implements the Selective Disclosure for JWTs specification, which is an important building block for future digital identity wallets. Since it is written in Kotlin, it can be used widely, e.g. in web backends or on Android.
 
 # Current Code of Conduct
 
