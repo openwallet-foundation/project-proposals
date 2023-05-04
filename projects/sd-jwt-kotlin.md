@@ -4,7 +4,7 @@ SD-JWT-Kotlin
 
 # Project Description
 
-A Kotlin implementation of the Selective Disclosure JWT (SD-JWT) specification.
+A Kotlin implementation of the [Selective Disclosure for JWTs](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-04.html) (SD-JWT) specification.
 
 # Alignment with the OpenWallet Foundation Mission
 
@@ -20,7 +20,7 @@ This library implements the Selective Disclosure spec, which is an important bui
 
 # Project License
 
-MIT license 
+Apache 2.0
 
 # Source Control
 
