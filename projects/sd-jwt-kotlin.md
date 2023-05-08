@@ -16,7 +16,7 @@ This library implements the Selective Disclosure for JWTs specification, which i
 
 # TAC Sponsor
 
---
+- [Tracy Kuhrt](https://github.com/tkuhrt)
 
 # Project License
 
