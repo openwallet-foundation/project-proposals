@@ -33,7 +33,7 @@ Additionally, the project allows us to bridge and advance the interest of both t
 
  
 
-##Origin & History 
+## Origin & History 
 
 The origins of the **Farmworker Wallet OS** project align with those of Entidad. What began as a volunteering effort by three college friends, was formalized in 2018 with the founding of Entidad as a public benefit corporation.  We have primarily been working with leading farm worker-serving organizations to develop technology that leverages growing digital literacy in their communities to scale their impact.  
 
@@ -44,52 +44,78 @@ The first digital service launched supported the UFW Foundation’s emergency re
 You can read more about our journey on [our blog](https://www.entidad.io/blog). 
 
 # Alignment with the OpenWallet Foundation Mission
-_Include a statement on alignment with the [OpenWallet Foundation mission](https://openwallet-foundation.github.io/tac/governance/charter/)._
+The **Farmworker Wallet OS** project is a community of contribution led by Entidad and the United Farm Workers Foundation (UFWF) with the goal of furthering the adoption of an open, secure, interoperable digital wallet solution that makes it easier for farm worker communities to access life-changing social and human services. The open-source software components maintained by this community will enable non-profit and social good organizations to build wallet-driven solutions on top of the Mendix low-code platform. Collaboration with app makers from the broader Mendix developer community will help inform and guide the Farmworker Wallet OS project with industry proven best practices, leading to the implementation of reusable functionality that is aligned with the goals of the Open Wallet Foundation (to preserve user choice, security and privacy). The community will also inspire the next generation of low-code app builders to learn and expand their skill sets with decentralized (web3) technologies. 
 
 # Current Code of Conduct
-_Has this project adopted a Code of Conduct? If so, please include a link to it._
+[Farmworker Wallet OS Community Code of Conduct](https://github.com/Entidad/.github/blob/main/CODE_OF_CONDUCT.md)
 
 # TAC Sponsor
 _Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)_
 
 # Project License
-_Include the proposed project license (Apache 2.0 by default)._
+Because of the social impact origins of the Farmworker Wallet OS project, it is important to the initial contributors that source code not be used in ways that could bring harm to underserved communities.  As such, we propose to use [Hippocratic License](https://firstdonoharm.dev/), Version 3.0, October 2021.  This license was created by the [Organization for Ethical Source](https://ethicalsource.dev/) in partnership with [Corporate Accountability Lab](https://corpaccountabilitylab.org/). The Hippocratic License is largely based on the Apache 2.0 license, with the addition of ethical standard elements. [Farmworker Wallet OS project proposed license](https://firstdonoharm.dev/version/3/0/cl-eco-extr-law-media-mil-soc-sv-usta.txt).
 
 # Source Control
-_If the project already exists, please provide a link to the repositories._
+Github
 
 # Issue Tracker
-_If the project already exists, please provide a link to the issue tracker._
+Github
 
 # External Dependencies
-_If there are any external dependencies, please list those here including licenses._
+1. [Mendix Studio Pro v9.24.3](https://marketplace.mendix.com/link/studiopro/) (integrated developer environment) 
+2. [Eclipse Temurin JDK 11 (x64)](https://adoptium.net/temurin/releases/?version=11)
+3. [Mendix Native Template v7.0.1](https://docs.mendix.com/refguide9/mobile/distributing-mobile-apps/building-native-apps/native-template/)
+4. [React Native v0.70.7](https://reactnative.dev/versions)
+5. Development instance of an [Aries Mediator Service](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0046-mediators-and-relays) 
+6. Development instance of an [Aries Cloud Agent](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0004-agents) 
 
 # Release Methodology
 _If the project already exists, please provide details on the release methodology and mechanics._
 
 # Initial Maintainers
-_Include the names of initial maintainers._
+* [Ockert van Schalkwyk](https://github.com/skullquake)
+* [Carlos Sanchez](https://github.com/cbsanchezg)
+* [Stephan Bruijnis](https://github.com/stephanbruijnis)
+* [Jorge Flores](https://github.com/jorgefl0)
 
 # Proposed Project Governance
-_Briefly describe the project's leadership team and decision-making process._
+The leadership team is composed of the individuals responsible for the development of digital wallet operating system used in the Preparese mobile application. The team has a demonstrated track record of delivering enterprise level digital trust solutions to the market. The proposed members are from Entidad, the UFW Foundation, and the Mendix developer community. By drawing from these three groups, we hope to introduce a balanced and diverse perspective that is representative of the three core communities this project hopes to serve.   
+
+ 
+All are committed to the Farmworker Wallet OS project and each leader plays a different role in its success: 
+
+* As the Principle Jorge Flores is responsible for maintaining the vision of the project, sourcing outside advisors, participants, and new ideas for collaboration and industries to serve. His extensive background as a CTO and his passion for digital trust technologies, communication platforms, and mobile application frameworks makes him a prime candidate to be the technical advisor for this project.  
+
+* As the Developer Lead, Ockert van Schalkwyk is responsible for maintaining an Enterprise level standard for the project’s software code.  He will review and approve changes, forks, and merges.  His background as senior Mendix developer with a focus on systems integrations, makes him the ideal candidate for the role.    
+
+* As a Mendix Solution architect, Stephan Bruijnis is responsible for guiding architectural integrity of the project.  He will ensure the project upholds and maintains targeted privacy, security, and interoperability standards. His extensive experience as a Senior Mendix architect makes him ideal for this project.    
+
+* As the Methodology and Mechanics Lead, Ned Gosaynie is responsible for maintaining documentation and versioning for the project.  He will review and approve the technical documentation needed to support the project needs. Additionally, he will manage versioning of the software. His experience as the of Head of Platform Services makes him the ideal candidate for this position.   
+
+ 
+The team’s philosophy for the Farmworker Wallet OS project will be a continuation of the social good principles that have driven the project since its origin. Having worked together for years, the team has a well-established working relationship. Decisions will be evaluated through the lens of farm worker benefit, security, privacy, and impact.   
 
 # Links to Documented Governance Practices
 _Include links to any documented governance practices._
 
 # Preferred Maturity Level
-_Specify the stage that you want this project to enter. See [project lifecycle](https://openwallet-foundation.github.io/tac/governance/project-lifecycle/#stages) for information on the different stages._
+Labs
 
 # Communication Channels
-_If already exists, include a list of project's official communication channels (slack, irc, mailing lists)._
+Slack
 
 # Project Website
-_If exists, include a link to project's website._
+TBD
 
 # Social Media
-_If exists, include links to social media accounts._
+* [linkedin.com/company/Entidad](https://www.linkedin.com/company/entidad/)
+* [medium.com/@Entidad](https://medium.com/@Entidad)
 
 # Financial Sponsorship
-_Include any existing financial sponsorship._
+UFW Foundation
 
 # Infrastructure
-_Include any infrastructure needs or requests._
+The **Farmworker Wallet OS** will be organized and published as a suite of software modules that can be imported into any existing Mendix app code repository. The Mendix software modules effectively serve as a digital wallet SDK that can be embedded into any Mendix application to enhance the user experience. The code repository for this project is itself a Mendix app repository and as such can be executed locally on any [supported](https://docs.mendix.com/refguide9/system-requirements/) developer workstation. 
+
+
+The initial version of the digital wallet SDK is being built on top of [Aries Framework Javascript](https://github.com/hyperledger/aries-framework-javascript), an open-source framework maintained by the [Hyperledger Aries developer community](https://www.hyperledger.org/use/aries) helping to foster participation with the Aries Digital Trust ecosystem. Over time, the digital wallet SDK can be extended to support other digital trust open-source frameworks such as OPENID4VC and VC API. 
