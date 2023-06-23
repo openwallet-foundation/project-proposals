@@ -74,8 +74,6 @@ _If the project already exists, please provide details on the release methodolog
 
 # Initial Maintainers
 * [Ockert van Schalkwyk](https://github.com/skullquake)
-* [Carlos Sanchez](https://github.com/cbsanchezg)
-* [Stephan Bruijnis](https://github.com/stephanbruijnis)
 * [Jorge Flores](https://github.com/jorgefl0)
 
 # Proposed Project Governance
@@ -84,7 +82,7 @@ The leadership team is composed of the individuals responsible for the developme
  
 All are committed to the Farmworker Wallet OS project and each leader plays a different role in its success: 
 
-* As the Principle Jorge Flores is responsible for maintaining the vision of the project, sourcing outside advisors, participants, and new ideas for collaboration and industries to serve. His extensive background as a CTO and his passion for digital trust technologies, communication platforms, and mobile application frameworks makes him a prime candidate to be the technical advisor for this project.  
+* As the principal, Jorge Flores is responsible for maintaining the vision of the project, sourcing outside advisors, participants, and new ideas for collaboration and industries to serve. His extensive background as a CTO and his passion for digital trust technologies, communication platforms, and mobile application frameworks makes him a prime candidate to be the technical advisor for this project.  
 
 * As the Developer Lead, Ockert van Schalkwyk is responsible for maintaining an Enterprise level standard for the project’s software code.  He will review and approve changes, forks, and merges.  His background as senior Mendix developer with a focus on systems integrations, makes him the ideal candidate for the role.    
 
