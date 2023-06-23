@@ -76,7 +76,7 @@ _If the project already exists, please provide details on the release methodolog
 * [Jorge Flores](https://github.com/jorgefl0)
 
 # Proposed Project Governance
-The leadership team is composed of the individuals responsible for the development of digital wallet operating system used in the Preparese mobile application. The team has a demonstrated track record of delivering enterprise level digital trust solutions to the market. The proposed members are from Entidad, the UFW Foundation, and the Mendix developer community. By drawing from these three groups, we hope to introduce a balanced and diverse perspective that is representative of the three core communities this project hopes to serve.   
+The leadership team is composed of the individuals responsible for the development of the Mendix digital wallet used in the Preparese solution. The team has a demonstrated track record of delivering enterprise level digital trust solutions to the market. The proposed members are from Entidad and the Mendix developer community. By drawing from these two groups, we hope to introduce a balanced and diverse perspective that is representative of the three core communities this project hopes to serve.   
 
  
 All are committed to the Farmworker Wallet OS project and each leader plays a different role in its success: 
@@ -90,7 +90,7 @@ All are committed to the Farmworker Wallet OS project and each leader plays a di
 * As the Methodology and Mechanics Lead, Ned Gosaynie is responsible for maintaining documentation and versioning for the project.  He will review and approve the technical documentation needed to support the project needs. Additionally, he will manage versioning of the software. His experience as the of Head of Platform Services makes him the ideal candidate for this position.   
 
  
-The team’s philosophy for the Farmworker Wallet OS project will be a continuation of the social good principles that have driven the project since its origin. Having worked together for years, the team has a well-established working relationship. Decisions will be evaluated through the lens of farm worker benefit, security, privacy, and impact.   
+The team’s philosophy for the Farmworker Wallet OS project will be a continuation of the social good principles that have driven the project since its origin. Having worked together for years, the team has a well-established working relationship. Decisions will be evaluated through the lens of farmworker benefit, security, privacy, and impact.   
 
 # Links to Documented Governance Practices
 _Include links to any documented governance practices._
