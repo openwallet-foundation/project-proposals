@@ -52,7 +52,7 @@ The **Farmworker Wallet OS** project is a community of contribution led by Entid
 _Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)_
 
 # Project License
-Because of the social impact origins of the Farmworker Wallet OS project, it is important to the initial contributors that source code not be used in ways that could bring harm to underserved communities.  As such, we propose to use [Hippocratic License](https://firstdonoharm.dev/), Version 3.0, October 2021.  This license was created by the [Organization for Ethical Source](https://ethicalsource.dev/) in partnership with [Corporate Accountability Lab](https://corpaccountabilitylab.org/). The Hippocratic License is largely based on the Apache 2.0 license, with the addition of ethical standard elements. [Farmworker Wallet OS project proposed license](https://firstdonoharm.dev/version/3/0/eco-extr-law-media-mil-soc-sv-usta.html).
+Because of the social impact origins of the Farmworker Wallet OS project, it is important to the initial contributors that source code not be used in ways that could bring harm to underserved communities.  As such, we propose to use the [Hippocratic License](https://firstdonoharm.dev/), Version 3.0, October 2021.  This license was created by the [Organization for Ethical Source](https://ethicalsource.dev/) in partnership with [Corporate Accountability Lab](https://corpaccountabilitylab.org/). The Hippocratic License is largely based on the Apache 2.0 license, with the addition of ethical standards. [Farmworker Wallet OS project proposed license](https://firstdonoharm.dev/version/3/0/eco-extr-law-media-mil-soc-sv-usta.html).
 
 # Source Control
 Github
