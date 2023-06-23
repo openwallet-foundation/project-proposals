@@ -1,6 +1,8 @@
 # Project Name
 Farmworker Wallet OS
 
+![alt text](https://github.com/Entidad/farmworkerwallet/blob/main/WatermelonWorkers.png)
+
 # Project Description
 The **Farmworker Wallet OS**  project is a community of contribution led by [Entidad](https://www.entidad.io/) and the [United Farm Workers Foundation](https://www.ufwfoundation.org/) (UFWF) with the goal of furthering the adoption of an open, secure, interoperable digital wallet engine that makes it easier for farmworker communities to access an ecosystem of life-altering social and human services. 
 
