@@ -101,14 +101,13 @@ _Include links to any documented governance practices._
 Labs
 
 # Communication Channels
-Slack
+Discord
 
 # Project Website
-TBD
+We don't have a project website as our work has not officially been open-sourced yet.
 
 # Social Media
-* [linkedin.com/company/Entidad](https://www.linkedin.com/company/entidad/)
-* [medium.com/@Entidad](https://medium.com/@Entidad)
+We don't have social media presence as our project has not officially been open-sourced yet.
 
 # Financial Sponsorship
 UFW Foundation
