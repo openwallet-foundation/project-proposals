@@ -1,7 +1,7 @@
 # Project Name
 Farmworker Wallet OS
 
-![alt text](https://github.com/Entidad/farmworkerwallet/blob/main/WatermelonWorkers.png)
+![Watermelon workers](https://github.com/Entidad/farmworkerwallet/blob/main/WatermelonWorkers.png)
 
 # Project Description
 The **Farmworker Wallet OS**  project is a community of contribution led by [Entidad](https://www.entidad.io/) and the [United Farm Workers Foundation](https://www.ufwfoundation.org/) (UFWF) with the goal of furthering the adoption of an open, secure, interoperable digital wallet engine that makes it easier for farmworker communities to access an ecosystem of life-altering social and human services. 
@@ -63,12 +63,21 @@ Github
 Github
 
 # External Dependencies
+Mendix is a low-code application platform provider so its terms of service cover usage of Mendix services and resources by Mendix developers (organizations and/or individual contributors). The **Application model**  for a standards compliant wallet engine will be the primary focus for the contributors of this project. The Mendix terms of service do protect the IP rights to these App models in Section 3 with reference to "Customer Data" definition in section 17.
+
+There are [design-time](https://www.mendix.com/evaluation-guide/developing-in-mendix/) and [runtime](https://www.mendix.com/evaluation-guide/app-lifecycle/deployment/) aspects of app development but one of the great things about this tooling is that there is clean separation between the two. 
+
+The following captures the developer's "design-time" perspective. We hope that the diagram helps to clarify the software components that would fall under the scope of this OWF project and distinguishes Preparese<sup>TM</sup> as an example of a closed (proprietary) application that embeds core Farmworker WalletOS components. We plan on documenting a similar diagram to aid in understanding the "runtime" perspective soon.
+
+![Designtime perspective](https://github.com/Entidad/farmworkerwallet/blob/main/Farmworker_WalletOS_OSS_Project.png)
+
 1. [Mendix Studio Pro v9.24.3](https://marketplace.mendix.com/link/studiopro/) (integrated developer environment) 
 2. [Eclipse Temurin JDK 11 (x64)](https://adoptium.net/temurin/releases/?version=11)
 3. [Mendix Native Template v7.0.1](https://docs.mendix.com/refguide9/mobile/distributing-mobile-apps/building-native-apps/native-template/)
 4. [React Native v0.70.7](https://reactnative.dev/versions)
-5. Development instance of an [Aries Mediator Service](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0046-mediators-and-relays) 
-6. Development instance of an [Aries Cloud Agent](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0004-agents) 
+5. [Hyperledger / Aries-Framework-Javascript v0.4.0](https://github.com/hyperledger/aries-framework-javascript/releases/tag/v0.4.0)
+6. Development instance of an [Aries Mediator Service](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0046-mediators-and-relays) 
+7. Development instance of an [Aries Cloud Agent](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0004-agents) 
 
 # Release Methodology
 _If the project already exists, please provide details on the release methodology and mechanics._
