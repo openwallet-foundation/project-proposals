@@ -20,7 +20,6 @@ We’ve built two products, using this technology. For organizations we’ve bui
  
 The Preparese Platform<sup>TM</sup> is being used by 9 organizations and has 5 digital services in production. The most recent service launched is being used to process and distribute [$80 million](https://www.usda.gov/media/press-releases/2021/09/07/usda-invests-700-million-grants-provide-relief-farm-and-food) in one-time relief payments to over 125,000 workers, under the United States Department of Agriculture’s [Farm and Food Workers Relief Program](https://www.ams.usda.gov/services/grants/ffwr) (FFWR).  
 
-  
 The second product, Preparese Mobile<sup>TM</sup>, is designed around the unique needs of farmworkers. We’ve developed a react native mobile app that lets farmworkers store, manage, and exchange their verified information. Engagement with organizations is made easier with [DIDComm](https://didcomm.org/book/v2/)-based communication capabilities such as text and video chat.  
 
  
@@ -48,7 +47,7 @@ You can read more about our journey on [our blog](https://www.entidad.io/blog).
 The **Farmworker Wallet OS** project is a community of contribution led by Entidad and the United Farm Workers Foundation (UFWF) with the goal of furthering the adoption of an open, secure, interoperable [digital wallet solution](https://youtu.be/Uo7CTtGrOw8) that makes it easier for farm worker communities to access life-changing social and human services. The open-source software components maintained by this community will enable non-profit and social good organizations to build wallet-driven solutions on top of the Mendix low-code platform. Collaboration with app makers from the broader Mendix developer community will help inform and guide the Farmworker Wallet OS project with industry proven best practices, leading to the implementation of reusable functionality that is aligned with the goals of the Open Wallet Foundation (to preserve user choice, security and privacy). The community will also inspire the next generation of low-code app builders to learn and expand their skill sets with decentralized (web3) technologies. 
 
 # Current Code of Conduct
-[Farmworker Wallet OS Community Code of Conduct](https://github.com/Entidad/.github/blob/main/CODE_OF_CONDUCT.md)
+[OpenWallet Foundation Code of Conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)
 
 # TAC Sponsor
 _Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)_
@@ -71,7 +70,7 @@ The following captures the developer's "design-time" perspective. We hope that t
 
 ![Designtime perspective](https://github.com/Entidad/farmworkerwallet/blob/main/Farmworker_WalletOS_OSS_Project.png)
 
-1. [Mendix Studio Pro v9.24.3](https://marketplace.mendix.com/link/studiopro/) (integrated developer environment) 
+1. [Mendix Studio Pro v9.24.4](https://marketplace.mendix.com/link/studiopro/) (integrated developer environment) 
 2. [Eclipse Temurin JDK 11 (x64)](https://adoptium.net/temurin/releases/?version=11)
 3. [Mendix Native Template v7.0.1](https://docs.mendix.com/refguide9/mobile/distributing-mobile-apps/building-native-apps/native-template/)
 4. [React Native v0.70.7](https://reactnative.dev/versions)
