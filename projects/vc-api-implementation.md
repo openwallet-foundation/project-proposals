@@ -1,10 +1,8 @@
 # Project Name
-_Include the name of project being proposed._
 
 VC API Implementation
 
 # Project Description
-_Include a description of the project, including what it does, why it is valuable, the origin and history, and other information that will allow others to understand what the project will include._
 
 The VC API is specification for a set of APIs for VC lifecycle management (https://w3c-ccg.github.io/vc-api/). This includes operations such as credential issuance, verification and exchange. It is a W3C CCG work item and, as of the submission of this proposal, it is in “draft community report” status. 
 
@@ -83,7 +81,6 @@ Furthermore, Energy Web has documentation on VC-API and general documentation on
 - https://energy-web-foundation.gitbook.io/energy-web/ew-dos-technology-components-2023/identity-and-access-management-iam/iam-guides/verifiable-credential-api
 
 # Alignment with the OpenWallet Foundation Mission
-_Include a statement on alignment with the [OpenWallet Foundation mission](https://openwallet-foundation.github.io/tac/governance/charter/)._
 
 The project team believes that the project is well aligned with the OpenWallet Foundation mission. 
 
@@ -95,22 +92,18 @@ In addition, development of a VC API implementation would promote the developmen
 The project has been open source since its inception and aims to be inclusive, in so far as it should be usable across a wide range of domains and infrastructure requirements.
 
 # Current Code of Conduct
-_Has this project adopted a Code of Conduct? If so, please include a link to it._
 
 https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/CODE_OF_CONDUCT.md
 
 # TAC Sponsor
-_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)_
 
 The project has not yet identified a TAC sponsor.
 
 # Project License
-_Include the proposed project license (Apache 2.0 by default)._
 
 GNU General Public License 3.0 -https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/LICENSE 
 
 # Source Control
-_If the project already exists, please provide a link to the repositories._
 
 The project source code is at the following location: https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api 
 
@@ -130,12 +123,10 @@ The git repository containing the code is a monorepo which contains the applicat
 | @energyweb/input-descriptor-to-credential | [Repo link](https://github.com/energywebfoundation/ssi/tree/develop/apps/input-descriptor-to-credential) | Independent from VC API. The app is an HTTP service to convert a Presentation Exchange input descriptor to a credential to be signed.
 
 # Issue Tracker
-_If the project already exists, please provide a link to the issue tracker._
 
 https://github.com/energywebfoundation/ssi/issues
 
 # External Dependencies
-_If there are any external dependencies, please list those here including licenses._
 
 Key external dependencies are listed below. Not all dependencies are listed.
 
@@ -146,7 +137,6 @@ Key external dependencies are listed below. Not all dependencies are listed.
 | https://github.com/Sphereon-Opensource/PEX | Provides presentation exchange functionality | Apache License 2.0 
 
 # Release Methodology
-_If the project already exists, please provide details on the release methodology and mechanics._
 
 The project contains a Dockerfile (https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/Dockerfile) to build a container image for portable deployment. 
 
@@ -161,12 +151,10 @@ The project does not yet have a release methodology whereby the application is v
 If the project were to be accepted and hosted by the Open Wallet Foundation, Energy Web’s deployment workflow would be removed from the repository hosted by the Open Wallet Foundation.
 
 # Initial Maintainers
-_Include the names of initial maintainers._
 
 - John Henderson - https://github.com/jrhender 
 
 # Proposed Project Governance
-_Briefly describe the project's leadership team and decision-making process._
 
 The project is currently governed by Energy Web and Elia. The project is not yet a community initiative, and no external feature requests or issues have been received. 
 
@@ -186,12 +174,10 @@ For future requirements, the team recommends considering the use cases defined b
 *Elia and Energy Web are open to adopting governance practices as suggested by OWF.* 
 
 # Links to Documented Governance Practices
-_Include links to any documented governance practices._
 
 Contribution guidelines: https://github.com/energywebfoundation/ssi/blob/develop/contributing.md  
 
 # Preferred Maturity Level
-_Specify the stage that you want this project to enter. See [project lifecycle](https://openwallet-foundation.github.io/tac/governance/project-lifecycle/#stages) for information on the different stages._
 
 The requested maturity level is “Labs”.  
 
@@ -202,20 +188,16 @@ Though the project team believes that the “Labs” stage is appropriate, the f
 - The project is accompanied by comprehensive technical documentation and tutorials, aimed at facilitating adoption. 
 
 # Communication Channels
-_If already exists, include a list of project's official communication channels (slack, irc, mailing lists)._
 
 GitHub Issues in the project's repository are enabled and publicly available. The project does not currently have any additional communication channels. 
 
 # Project Website
-_If exists, include a link to project's website._
 
 # Social Media
-_If exists, include links to social media accounts._
 
 Elia made a short video to introduce the concept of SSI to newcomers: https://eliagroup.sharepoint.com/:v:/s/InnovationTeam/EUfrphynLWlLsMhJ8mMkjboBxIHTyyoy3RqGalcdFGqn-g?e=JcYOLU  
 
 # Financial Sponsorship
-_Include any existing financial sponsorship._
 
 Elia has funded the development of the project and is currently funding maintenance and minor feature development, in the context of initiatives which are ongoing through 2023. Furthermore, Elia has made funding available for any changes required for the project to be donated to the OWF. 
 
@@ -224,7 +206,6 @@ Beyond the context of the ongoing initiatives and donation of the project to OWF
 - Would the funding enable changes which improve support of the implement for Elia’s use cases? 
 
 # Infrastructure
-_Include any infrastructure needs or requests._
 
 The following is requested as repository infrastructure:
 
