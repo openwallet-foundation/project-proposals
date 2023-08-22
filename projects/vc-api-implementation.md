@@ -12,7 +12,7 @@ This project is an implementation of the VC API. The implementation aims to enab
 
 Easy to adapt new feature requirements and changes since the implementation is generic (can be used for different use-cases, energy use case is one of them). 
 
-The VC API specification was presented to the Open Wallet Foundation Architecture Special Interest Group during the 2023-04-24 meeting (https://github.com/openwallet-foundation/architecture-sig/wiki/2023-04-24-Meeting-Minutes). This project was used during the demonstration portion of the presentation.
+The VC API specification was presented to the [Open Wallet Foundation Architecture Special Interest Group during the 2023-04-24 meeting](https://github.com/openwallet-foundation/architecture-sig/wiki/2023-04-24-Meeting-Minutes). This project was used during the demonstration portion of the presentation.
 
 ## Project Motivation and History 
 
