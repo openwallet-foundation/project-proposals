@@ -93,7 +93,9 @@ The project has been open source since its inception and aims to be inclusive, i
 
 # Current Code of Conduct
 
-https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/CODE_OF_CONDUCT.md
+The current Code of Conduct of the project is [stored in the project repository](https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/CODE_OF_CONDUCT.md)
+
+However, if the project is accepted by the OWF, the project would adopt the Linux Foundation Europe Code of Conduct. 
 
 # TAC Sponsor
 
