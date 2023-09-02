@@ -219,5 +219,5 @@ The following is requested as release artifact infrastructure:
 
 | Infrastructure Technology | Purpose |
 |---------------------------|----------|
-| *no technology preference* | Public container image repository |
+| *no technology preference* | Public container image repository, such as ghcr.io |
 
