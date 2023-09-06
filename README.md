@@ -47,3 +47,11 @@ with your actual name and email address:
 automatically. You can also add it manually as part of your commit
 log message or add it afterwards with `git commit --amend -s`.
 5. Submit a pull request.
+
+# Fixing DCO on Existing Repositories
+
+In order to bring an existing source base to the OpenWallet Foundation, the repository must have [DCO](https://developercertificate.org/) signoff on all commits. If your existing repository does not have DCO signoff on all commits, you will need to do one of two things:
+
+1. bring your code by squashing all of your commits into a single first commit made against a new OWF repo with your DCO sign-off.
+
+2. amend the commit history to include DCO sign-off for each of the commits. The Hyperledger Indy community has [documented steps to fix DCO on previous commits](https://github.com/hyperledger/indy-sdk/blob/main/docs/contributors/signing-commits.md#how-to-sign-previous-commits). Also, the [Fix DCO Guide from src-d](https://github.com/src-d/guide/blob/master/developer-community/fix-DCO.md) contains some different steps you can take.
