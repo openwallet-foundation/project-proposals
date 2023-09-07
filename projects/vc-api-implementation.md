@@ -10,6 +10,9 @@ The VC API’s design is informed by use cases across a range of domains. Severa
 
 This project is an implementation of the VC API. The implementation aims to enable organizations and individuals to effortlessly conduct SSI operations over HTTP without requiring technical expertise, making it seamless to integrate into existing projects. 
 
+This implementation does not yet implement all of the methods of VC API.
+The list of API methods which are implemented is in a table in the [application README](https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api#implemented-endpoints).
+
 Easy to adapt new feature requirements and changes since the implementation is generic (can be used for different use-cases, energy use case is one of them). 
 
 The VC API specification was presented to the [OpenWallet Foundation Architecture Special Interest Group during the 2023-04-24 meeting](https://github.com/openwallet-foundation/architecture-sig/wiki/2023-04-24-Meeting-Minutes). This project was used during the demonstration portion of the presentation.
