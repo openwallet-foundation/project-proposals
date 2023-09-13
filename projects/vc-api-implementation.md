@@ -76,12 +76,16 @@ Integration tests are implemented based on Energy and Mobility use cases, which 
 
 ### Documentation 
 
-The project contains technical documentation and tutorials to facilitate understanding of the API and experiment with the implementation: https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api/docs/tutorials 
+The project contains technical documentation and tutorials to facilitate understanding of the API and experiment with the implementation: https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api/docs/tutorials.
+All documentation and tutorials within the repository would be donated alongside the source code, as a part of this proposal. 
 
 Furthermore, Energy Web has documentation on VC-API and general documentation on SSI available the Energy Web gitbook: 
 
 - https://energy-web-foundation.gitbook.io/energy-web/foundational-concepts/self-sovereign-identity-introduction
 - https://energy-web-foundation.gitbook.io/energy-web/ew-dos-technology-components-2023/identity-and-access-management-iam/iam-guides/verifiable-credential-api
+
+This proposal does not include the migration of the gitbook documentation to the OWF, though this could be re-assessed if desired.
+If the OWF has a suitable documentation site, the gitbook content could be migrated there.
 
 # Alignment with the OpenWallet Foundation Mission
 
