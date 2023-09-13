@@ -163,7 +163,10 @@ If the project were to be accepted and hosted by the OpenWallet Foundation, Ener
 
 # Initial Maintainers
 
-- John Henderson - https://github.com/jrhender 
+[John Henderson](https://github.com/jrhender) will be responsible for the initial maintainance of the repository.
+
+## Planned contributors
+[Ashish Tripathi](https://github.com/nichonien) will contribute to the project but will not be responsible for maintenance.
 
 # Proposed Project Governance
 
