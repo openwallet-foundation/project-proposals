@@ -110,7 +110,9 @@ The project has not yet identified a TAC sponsor.
 
 # Project License
 
-GNU General Public License 3.0 -https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/LICENSE 
+The project is current licensed under GNU General Public License 3.0 https://github.com/energywebfoundation/ssi/blob/develop/apps/vc-api/LICENSE 
+
+However, if the proposal is accepted, the project will be re-licensed to Apache 2.0.
 
 # Source Control
 
