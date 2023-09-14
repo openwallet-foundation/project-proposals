@@ -74,6 +74,23 @@ The project is also tested by unit tests and end-to-end tests.
 
 Integration tests are implemented based on Energy and Mobility use cases, which have historically come from Elia and BloXmove energy and mobility as use-case requirements respectively. 
 
+#### Key, DID & Proof Types Supported
+
+The key curves, DID methods and proof types supported are summarized in the table below:
+
+| Key Curve | DID Method | Proof Type 
+| --- | --- | --- 
+| Ed25519 | did:key | Ed25519Signature2018 
+| Secp256k1 | did:ethr | EcdsaSecp256k1Signature2019
+
+Further details on this can be found here in the project repository:
+1. [Keys](https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api#supported-key-types)
+2. [DID Methods](https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api#supported-did-methods) 
+3. [Proof Types](https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api#supported-proof-types-for-proof-generation)
+
+Currently, an important constraint on the supported keys, DID methods and proof types is the use of DIDKit as the core library for credential operations.
+DIDKit's full list of supported did:methods and proof types is documented [here](https://www.spruceid.dev/didkit/didkit/did-methods).
+
 ### Documentation 
 
 The project contains technical documentation and tutorials to facilitate understanding of the API and experiment with the implementation: https://github.com/energywebfoundation/ssi/tree/develop/apps/vc-api/docs/tutorials.
