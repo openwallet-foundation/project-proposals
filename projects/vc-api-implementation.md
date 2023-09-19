@@ -68,7 +68,10 @@ However, recent discussions in the VC API working group suggest that APIs for th
 
 #### Automated Testing 
 
-The project is tested by the two automated test suites which have been developed by the W3C CCG for testing credential issuance (https://github.com/w3c-ccg/vc-api-issuer-test-suite) and credential verification (https://github.com/w3c-ccg/vc-api-verifier-test-suite).
+The project is tested by the two automated test suites which have been developed by the W3C CCG for testing credential issuance (https://github.com/w3c-ccg/vc-api-issuer-test-suite) and credential verification (https://github.com/w3c-ccg/vc-api-verifier-test-suite). The project will strive to pass additional test suites as they become available.
+
+These test suites help demonstrate the potential of clients of the API to interoperate with other VC API implementations.
+Further interoperability testing may be performed in the future as well as relevant opportunities arise.
 
 The project is also tested by unit tests and end-to-end tests. 
 
