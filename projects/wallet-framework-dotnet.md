@@ -38,6 +38,7 @@ The project will be distributed as nuget package.
 
 # Initial Maintainers
 - Sebastian Bickerle [ntsbs](https://github.com/ntsbs)
+- Kevin Dinh [Dindexx](https://github.com/Dindexx)
 - Christopher Hempel [CHempel-esatus](https://github.com/CHempel-esatus)
 
 # Proposed Project Governance
