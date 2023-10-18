@@ -23,7 +23,7 @@ _Include the proposed project license. The OpenWallet Foundation will consider p
 _If the project already exists, please provide a link to the repositories. If no source exists, this is okay. Please state that this will be a completely new project with code beginning in the OpenWallet Foundation._
 
 # Issue Tracker
-_If the project already exists, please provide a link to the issue tracker. If there is no issue tracker, please answer with "N/A (not applicable)"._
+_OpenWallet Foundation expects that an issue tracker is open to anyone who would like to view, add, or fix issues. This information allows the TAC to better judge the state of the project maturity. If the project already exists, please provide a link to the issue tracker. If there is no issue tracker or you do not currently track issues, please answer with "N/A (not applicable)"._
 
 # External Dependencies
 _If there are any external dependencies, please list those here including licenses._
