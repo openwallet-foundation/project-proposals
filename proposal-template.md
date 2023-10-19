@@ -11,10 +11,10 @@ _Include a description of the project, including what it does, why it is valuabl
 _Include a statement on alignment with the [OpenWallet Foundation mission](https://tac.openwallet.foundation/governance/charter/)._
 
 # Code of Conduct
-_Has this project adopted a Code of Conduct? If so, please include a link to it.If a current code of conduct is not adopted, will you adopt the [OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)?_
+_Has this project adopted a Code of Conduct? If so, please include a link to it. If a current code of conduct is not adopted, will you adopt the [OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)?_
 
 # TAC Sponsor
-_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)_
+_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)._
 
 # Project License
 _Include the proposed project license. The OpenWallet Foundation will consider permissive open source licenses and prefers Apache 2.0._
@@ -41,7 +41,7 @@ _Briefly describe the project's leadership team and decision-making process._
 _Include a link to the project charter. The project charter can be obtained by completing the [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295)._
 
 # Financial Sponsorship
-_Include any existing financial sponsorship. If none, please state "None"_
+_Include any existing financial sponsorship. If none, please state "None"._
 
 # Infrastructure
-_Include any infrastructure needs or requests. OpenWallet Foundation provides a set of [services for projects and labs](https://tac.openwallet.foundation/project-and-lab-services/). Please note which of these you will utilize and what else is required_
+_Include any infrastructure needs or requests. OpenWallet Foundation provides a set of [services for projects and labs](https://tac.openwallet.foundation/project-and-lab-services/). Please note which of these you will utilize and what else is required._
