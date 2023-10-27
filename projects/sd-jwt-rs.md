@@ -43,8 +43,8 @@ To be defined.
 
 # Initial Maintainers
 
-Sergey Minaev ([Github](https://github.com/jovfer))
-DSR Corporation Decentralized Systems Team ([Github](https://github.com/orgs/DSRCorporation/teams/decentralized-systems)
+- Sergey Minaev ([Github](https://github.com/jovfer))
+- DSR Corporation Decentralized Systems Team ([Github](https://github.com/orgs/DSRCorporation/teams/decentralized-systems)
 
 # Proposed Project Governance
 
