@@ -30,8 +30,7 @@ Please note: this is a brand-new source code. The DSR team is working on the ini
 
 # Issue Tracker
 
-To be defined.
-GitHub Issues (preferred) or another tool suggested by OWF.
+GitHub Issues.
 
 # External Dependencies
 
