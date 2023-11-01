@@ -17,7 +17,7 @@ _Has this project adopted a Code of Conduct? If so, please include a link to it.
 _Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)._
 
 # Project License
-_Include the proposed project license. The OpenWallet Foundation will consider permissive open source licenses and prefers Apache 2.0._
+_Include the proposed project license. The OpenWallet Foundation will consider [OSI-approved](https://opensource.org/licenses/) permissive open source licenses and prefers Apache 2.0._
 
 # Source Control
 _If the project already exists, please provide a link to the repositories. If no source exists, this is okay. Please state that this will be a completely new project with code beginning in the OpenWallet Foundation._
