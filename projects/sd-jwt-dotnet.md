@@ -8,7 +8,7 @@ A Dot Net implementation of the [Selective Disclosure for JWTs](https://www.ietf
 
 # Alignment with the OpenWallet Foundation Mission
 
-This library implements the Selective Disclosure for JWTs specification, which is an important building block for future digital identity wallets. Since it is written in Dot Net, it can be used widely, e.g. in web backends or on cross platform Xamarin for both iOS and Android.
+This library implements the Selective Disclosure for JWTs specification, which is an important building block for future digital identity wallets.
 
 # Current Code of Conduct
 
