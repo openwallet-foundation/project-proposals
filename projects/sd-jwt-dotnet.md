@@ -41,7 +41,7 @@ gfoidl.Base64
 
 # Release Methodology
 
-The project is released on Nuget and snapshots can be found [here](https://s01.oss.sonatype.org/content/repositories/snapshots/org/sd-jwt/sd-jwt-kotlin/).
+The project is released on Nuget and can be found [here](https://www.nuget.org/packages/).
 
 # Initial Maintainers
 
