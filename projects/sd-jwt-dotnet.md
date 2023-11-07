@@ -2,6 +2,10 @@
 
 SD-JWT-DotNet
 
+# Preferred Maturity Level
+
+Labs
+
 # Project Description
 
 A Dot Net implementation of the [Selective Disclosure for JWTs](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-04.html) (SD-JWT) specification.
@@ -10,17 +14,17 @@ A Dot Net implementation of the [Selective Disclosure for JWTs](https://www.ietf
 
 This library implements the Selective Disclosure for JWTs specification, which is an important building block for future digital identity wallets.
 
-# Current Code of Conduct
+# Code of Conduct
 
---
+None
 
 # TAC Sponsor
 
-- [Tracy Kuhrt](https://github.com/tkuhrt)
+None
 
 # Project License
 
-Apache 2.0
+Apache 2.0.
 
 # Source Control
 
@@ -41,7 +45,7 @@ gfoidl.Base64
 
 # Release Methodology
 
-The project is released on Nuget and can be found [here](https://www.nuget.org/packages/).
+N/A
 
 # Initial Maintainers
 
@@ -49,32 +53,16 @@ Thomas Tran([Github](https://github.com/thomas-tran))
 
 # Proposed Project Governance
 
---
+TBA
 
 # Links to Documented Governance Practices
 
---
-
-# Preferred Maturity Level
-
-Labs
-
-# Communication Channels
-
-- Github Issues
-
-# Project Website
-
-[SD-JWT-DotNet](https://github.com/thomas-tran/sd-jwt-dotnet)
-
-# Social Media
-
---
+https://docs.google.com/forms/u/2/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/formResponse?pli=1
 
 # Financial Sponsorship
 
---
+None
 
 # Infrastructure
 
---
+None
