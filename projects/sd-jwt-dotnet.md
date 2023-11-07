@@ -53,7 +53,7 @@ Thomas Tran([Github](https://github.com/thomas-tran))
 
 # Proposed Project Governance
 
-TBA
+None
 
 # Links to Documented Governance Practices
 
