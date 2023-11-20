@@ -1,47 +1,97 @@
 # Project Name
-_Include the name of project being proposed._
+
+This is still up for debate. Until then, the working title is _Agent Framework JavaScript_.
 
 # Preferred Maturity Level
-_Specify the stage that you want this project to enter. See [project lifecycle](https://tac.openwallet.foundation/governance/project-lifecycle/#stages) for information on the different stages._
+
+Considering the fact that the project has been adopted by various companies and governments, and powers a number of production use cases, the _impact_ stage seems appropriate. However, the project does not fulfill the "is commonly used in enterprise production environments".
+
+Therefore, the project is estimated to be in the _growth_ stage, approaching the _impact_ stage.
 
 # Project Description
-_Include a description of the project, including what it does, why it is valuable, the origin and history, and other information that will allow others to understand what the project will include. Architecture diagrams should be included if available._
+
+Aries Framework JavaScript has evolved significantly since its inception as a Hyperledger Aries project. Initially, it heavily relied on Hyperledger standards such as DIDComm, Indy, and AnonCreds. However, with advancements in verifiable credential technology and the emergence of new standards, the framework underwent multiple refactoring and modularization processes to maintain interoperability.
+
+This allowed for the inclusion of non-Hyperledger standards like W3C Verifiable Credentials with Data Integrity Proofs, Presentation Exchange, OpenID4VC, and SD-JWT integration. As industry requirements shifted towards greater modularity, it became apparent that a unified framework may be better.
+
+The future direction for Aries Framework JavaScript involves adopting a compartmentalized approach consisting of single-purpose libraries designed to work together seamlessly, building on what is already out there. This transition will take considerable effort and will, therefore, be gradual.
+
+In order to expand the framework's support for standards beyond the Hyperledger ecosystem, a reassessment of its governance was necessary. The Open Wallet Foundation (OWF) has been considered a potential steward due to its commitment to promoting interoperability without directly developing or maintaining standard protocols.
+
+![afj-high-level-arch.png](./afj-high-level-arch.png)
+
+> **NOTE<sup>1<sup>:** In addition to the [Aries Framework JavaScript repository](https://github.com/hyperledger/aries-framework-javascript), we propose moving the [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext) repository too, due to its tight relationship with the framework.
+>
+> **NOTE<sup>2<sup>:** Another Hyperledger project that is tightly related to the framework is [Aries Mobile Agent React Native (a.k.a. Bifold)](https://github.com/hyperledger/aries-mobile-agent-react-native). This project is maintained by a different set of people and is therefore not included in this proposal.
 
 # Alignment with the OpenWallet Foundation Mission
-_Include a statement on alignment with the [OpenWallet Foundation mission](https://tac.openwallet.foundation/governance/charter/)._
+
+The objective is to promote interoperability by supporting numerous standards, as was outlined earlier. As a Hyperledger project, all components have been open source from the beginning.
+
+Maintainers will persist in collaborating with Standards Development Organizations (SDOs) across ecosystems, as done previously.
 
 # Code of Conduct
-_Has this project adopted a Code of Conduct? If so, please include a link to it. If a current code of conduct is not adopted, will you adopt the [OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)?_
+
+The project currently follows the Hyperledger Code of Conduct as is the case for all Hyperledger projects: [Hyperledger Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct). Hyperledger being part of the Linux Foundation too, it may be assumed its Code of Conduct is in line with the foundation's policies.
 
 # TAC Sponsor
-_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)._
+
+Tracy Kuhrt
 
 # Project License
-_Include the proposed project license. The OpenWallet Foundation will consider [OSI-approved](https://opensource.org/licenses/) permissive open source licenses and prefers Apache 2.0._
+
+The project has an Apache 2.0 license: [Aries Framework JavaScript - License)](https://github.com/hyperledger/aries-framework-javascript%23license)
 
 # Source Control
-_If the project already exists, please provide a link to the repositories. If no source exists, this is okay. Please state that this will be a completely new project with code beginning in the OpenWallet Foundation._
+
+The project is hosted in GitHub and includes the following repositories:
+
+- The framework [Aries Framework JavaScript)](https://github.com/hyperledger/aries-framework-javascript%23license)
+- The framework's extensions: [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext%23license)
 
 # Issue Tracker
-_OpenWallet Foundation expects that an issue tracker is open to anyone who would like to view, add, or fix issues. This information allows the TAC to better judge the state of the project maturity. If the project already exists, please provide a link to the issue tracker. If there is no issue tracker or you do not currently track issues, please answer with "N/A (not applicable)"._
+
+The issues are tracked using GitHub's Issues feature in the corresponding repository. For issues that span across multiple repositories, GitHub's Projects feature may be used.
 
 # External Dependencies
-_If there are any external dependencies, please list those here including licenses._
+
+Please see [Aries Framework JavaScript - Dependency Licenses](./dependency-licensing-overview.md)
 
 # Release Methodology
-_If the project already exists, please provide details on the release methodology and mechanics. If there is not currently a release methodology, please answer with "N/A (not applicable)"._
+
+All proposed repositories have continuous deployment/delivery pipelines built using [GitHub Actions](https://github.com/features/actions). The individual packages follow the [_semantic versioning_](https://semver.org/) method, ensuring consistency and safety. Whenever a pull request is merged into the `main` branch that doesn't cause a _major_, _minor_ or _patch_ version increase, an _alpha_ version is released.
 
 # Initial Maintainers
-_Include the names of initial maintainers and their GitHub IDs._
+
+| name               | Github                                                     |
+| ------------------ | ---------------------------------------------------------- |
+| Berend Sliedrecht  | [@blu3beri](https://github.com/blu3beri)                   |
+| Jakub Kočí         | [@jakubkoci](https://github.com/jakubkoci)                 |
+| James Ebert        | [@JamesKEbert](https://github.com/JamesKEbert)             |
+| Karim Stekelenburg | [@karimStekelenburg](https://github.com/karimStekelenburg) |
+| Timo Glastra       | [@TimoGlastra](https://github.com/TimoGlastra)             |
+| Ariel Gentile      | [@genaris](https://github.com/genaris)                     |
+| Jan Rietveld       | [@janrtvld](https://github.com/janrtvld)                   |
 
 # Proposed Project Governance
-_Briefly describe the project's leadership team and decision-making process._
+
+The current governance model under Hyperledger is community-based. This means that decisions are made democratically, with the aim of community consensus. In cases where no clear consensus is established, active contributors may be granted a louder voice.
+
+This approach has proven effective and will be continued as the chosen governance model.
 
 # Links to Documented Governance Practices
-_Include a link to the project charter. The project charter can be obtained by completing the [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295)._
+
+> Work in progress.
 
 # Financial Sponsorship
-_Include any existing financial sponsorship. If none, please state "None"._
+
+Hyperledger has covered infrastructure related costs. Besides that, None.
 
 # Infrastructure
-_Include any infrastructure needs or requests. OpenWallet Foundation provides a set of [services for projects and labs](https://tac.openwallet.foundation/project-and-lab-services/). Please note which of these you will utilize and what else is required._
+
+- GitHub repositories
+- CI (GitHub actions)
+- Bug Tracking (GitHub Issues and GitHub Projects)
+- Communication channels (Discord)
+- Mailing list
+- Video conference (Zoom)
