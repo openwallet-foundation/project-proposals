@@ -32,7 +32,7 @@ Maintainers will persist in collaborating with Standards Development Organizatio
 
 # Code of Conduct
 
-The project currently follows the Hyperledger Code of Conduct as is the case for all Hyperledger projects: [Hyperledger Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct). Hyperledger being part of the Linux Foundation too, it may be assumed its Code of Conduct is in line with the foundation's policies.
+Both Hyperledger and the OpenWallet Foundation follow the [Linux Foundation's Europe Policies](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/Exhibit%20B%20--%20Linux%20Foundation%20Europe%20Policies.pdf)
 
 # TAC Sponsor
 
@@ -59,7 +59,7 @@ Please see [Aries Framework JavaScript - Dependency Licenses](./dependency-licen
 
 # Release Methodology
 
-All proposed repositories have continuous deployment/delivery pipelines built using [GitHub Actions](https://github.com/features/actions). The individual packages follow the [_semantic versioning_](https://semver.org/) method, ensuring consistency and safety. Whenever a pull request is merged into the `main` branch an _alpha_ version is released.
+All proposed repositories have continuous deployment/delivery pipelines built using [GitHub Actions](https://github.com/features/actions). The individual packages follow the [_semantic versioning_](https://semver.org/) method, ensuring consistency and safety. Whenever a pull request is merged into the `main` branch that doesn't cause a _major_, _minor_ or _patch_ version increase, an _alpha_ version is released.
 
 # Initial Maintainers
 
@@ -96,4 +96,3 @@ Hyperledger has covered infrastructure related costs. Besides that, None.
 - Communication channels (Discord)
 - Mailing list
 - Video conference (Zoom)
-- Codecov (code coverage)
