@@ -59,7 +59,7 @@ Please see [Aries Framework JavaScript - Dependency Licenses](./dependency-licen
 
 # Release Methodology
 
-All proposed repositories have continuous deployment/delivery pipelines built using [GitHub Actions](https://github.com/features/actions). The individual packages follow the [_semantic versioning_](https://semver.org/) method, ensuring consistency and safety. Whenever a pull request is merged into the `main` branch that doesn't cause a _major_, _minor_ or _patch_ version increase, an _alpha_ version is released.
+All proposed repositories have continuous deployment/delivery pipelines built using [GitHub Actions](https://github.com/features/actions). The individual packages follow the [_semantic versioning_](https://semver.org/) method, ensuring consistency and safety. Whenever a pull request is merged into the `main` branch an _alpha_ version is released.
 
 # Initial Maintainers
 
