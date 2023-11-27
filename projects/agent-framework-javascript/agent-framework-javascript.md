@@ -82,7 +82,7 @@ This approach has proven effective and will be continued as the chosen governanc
 
 # Links to Documented Governance Practices
 
-> Work in progress.
+> Work in progress. The intake form has been submitted.
 
 # Financial Sponsorship
 
