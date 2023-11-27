@@ -63,15 +63,16 @@ All proposed repositories have continuous deployment/delivery pipelines built us
 
 # Initial Maintainers
 
-| name               | Github                                                     |
-| ------------------ | ---------------------------------------------------------- |
-| Berend Sliedrecht  | [@blu3beri](https://github.com/blu3beri)                   |
-| Jakub Kočí         | [@jakubkoci](https://github.com/jakubkoci)                 |
-| James Ebert        | [@JamesKEbert](https://github.com/JamesKEbert)             |
-| Karim Stekelenburg | [@karimStekelenburg](https://github.com/karimStekelenburg) |
-| Timo Glastra       | [@TimoGlastra](https://github.com/TimoGlastra)             |
-| Ariel Gentile      | [@genaris](https://github.com/genaris)                     |
-| Jan Rietveld       | [@janrtvld](https://github.com/janrtvld)                   |
+| name               | Github                                                     | Organization    |
+| ------------------ | ---------------------------------------------------------- | --------------- |
+| Berend Sliedrecht  | [@berendsliedrecht](https://github.com/berendsliedrecht)   | Animo Solutions |
+| Jakub Kočí         | [@jakubkoci](https://github.com/jakubkoci)                 | Absa Group      |
+| James Ebert        | [@JamesKEbert](https://github.com/JamesKEbert)             | Indicio         |
+| Karim Stekelenburg | [@karimStekelenburg](https://github.com/karimStekelenburg) | Animo Solutions |
+| Timo Glastra       | [@TimoGlastra](https://github.com/TimoGlastra)             | Animo Solutions |
+| Ariel Gentile      | [@genaris](https://github.com/genaris)                     | 2060.io         |
+| Jan Rietveld       | [@janrtvld](https://github.com/janrtvld)                   | Animo Solutions |
+|                    |                                                            |                 |
 
 # Proposed Project Governance
 
