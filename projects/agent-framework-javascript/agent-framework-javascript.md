@@ -12,7 +12,7 @@ Therefore, the project is estimated to be in the _growth_ stage, approaching the
 
 Aries Framework JavaScript has evolved significantly since its inception as a Hyperledger Aries project. Initially, it heavily relied on Hyperledger standards such as DIDComm, Indy, and AnonCreds. However, with advancements in verifiable credential technology and the emergence of new standards, the framework underwent multiple refactoring and modularization processes to maintain interoperability.
 
-This allowed for the inclusion of non-Hyperledger standards like W3C Verifiable Credentials with Data Integrity Proofs, Presentation Exchange, OpenID4VC, and SD-JWT integration. As industry requirements shifted towards greater modularity, it became apparent that a unified framework may be better.
+This allowed for the inclusion of non-Hyperledger standards like W3C Verifiable Credentials with Data Integrity Proofs, DIF Presentation Exchange, OpenID4VC, and SD-JWT integration. As industry requirements shifted towards greater modularity, it became apparent that a unified framework may be better.
 
 The future direction for Aries Framework JavaScript involves adopting a compartmentalized approach consisting of single-purpose libraries designed to work together seamlessly, building on what is already out there. This transition will take considerable effort and will, therefore, be gradual.
 
