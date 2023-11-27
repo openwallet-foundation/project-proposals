@@ -16,7 +16,7 @@ This allowed for the inclusion of non-Hyperledger standards like W3C Verifiable 
 
 The future direction for Aries Framework JavaScript involves adopting a compartmentalized approach consisting of single-purpose libraries designed to work together seamlessly, building on what is already out there. This transition will take considerable effort and will, therefore, be gradual.
 
-In order to expand the framework's support for standards beyond the Hyperledger ecosystem, a reassessment of its governance was necessary. The Open Wallet Foundation (OWF) has been considered a potential steward due to its commitment to promoting interoperability without directly developing or maintaining standard protocols.
+In order to expand the framework's support for standards beyond the Hyperledger ecosystem, a reassessment of its governance was necessary. The OpenWallet Foundation (OWF) has been considered a potential steward due to its commitment to promoting interoperability without directly developing or maintaining standard protocols.
 
 ![afj-high-level-arch.png](./afj-high-level-arch.png)
 
