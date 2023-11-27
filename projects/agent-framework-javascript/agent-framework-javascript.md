@@ -96,3 +96,4 @@ Hyperledger has covered infrastructure related costs. Besides that, None.
 - Communication channels (Discord)
 - Mailing list
 - Video conference (Zoom)
+- Codecov (code coverage)
