@@ -36,7 +36,8 @@ Both Hyperledger and the OpenWallet Foundation follow the [Linux Foundation's Eu
 
 # TAC Sponsor
 
-Tracy Kuhrt
+- Tracy Kuhrt
+- Stavros Kounis
 
 # Project License
 
