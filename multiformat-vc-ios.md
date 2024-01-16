@@ -10,9 +10,8 @@ Labs
 
 Pure Swift package for creating Verifiable Credentials (VCs) in multiple formats
 
-- SD JWT "Selective Disclosure for JWTs (SD-JWT)" using the specification defined at https://www.ietf.org/archive/id/draft-terbu-oauth-sd-jwt-vc-00.html
+- SD JWT "Selective Disclosure for JWTs (SD-JWT)" using the specification defined at https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/
 - VC JWT "Verifiable Credentials as JWTs" using the format defined at JWT VC Presentation Profile https://identity.foundation/jwt-vc-presentation-profile/
-- ISO 23220 mDoc format (coming soon)
 
 Support for multiple data types for disclosed values including
 
@@ -22,7 +21,7 @@ Support for multiple data types for disclosed values including
 - Array of Strings - [String]
 - Dictionary of String keys and String values - [String:String]
 
-This project is a contribution of the work done at Ping Identity to test and establish interoperability of the various formats representing the Verifiable Credentials Data Model https://www.w3.org/TR/vc-data-model/. Along with the SD-JWT VC and JWT VC formats described above, Ping Identity has also participated in the interoperability event for the ISO 18013-7 mDL/mDoc format for Verifiable Credentials. That code will also be released as a part of this project.
+This project is a contribution of the work done at Ping Identity to test and establish interoperability of the various formats representing the Verifiable Credentials Data Model https://www.w3.org/TR/vc-data-model/. Along with the SD-JWT VC and JWT VC formats described above, Ping Identity has also participated in the interoperability event for OpenID4VP to present a VC JWT. That code will also be released as a part of this project.
 
 # Alignment with the OpenWallet Foundation Mission
 
@@ -34,7 +33,7 @@ This Swift package implements three popular formats for Verifiable Credentials. 
 
 # TAC Sponsor
 
-_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)._
+Jeremie Miller (https://github.com/quartzjer)
 
 # Project License
 
@@ -42,7 +41,7 @@ _Include the name of a sponsor from the TAC, if identified (a sponsor helps ment
 
 # Source Control
 
-github.com/pingidentity/MultiformatVC-iOS
+[https://github.com/pingidentity/MultiformatVC-iOS](https://github.com/pingidentity/MultiformatVC-iOS)
 
 # Issue Tracker
 
@@ -54,19 +53,19 @@ github.com/pingidentity/MultiformatVC-iOS
 
 # Release Methodology
 
-_"N/A (not applicable)"._
+_N/A (not applicable)_
 
 # Initial Maintainers
 
-[Gaurav Khot](https://github.com/gauravping)
+Gaurav Khot([Github](https://github.com/gauravping))
 
 # Proposed Project Governance
 
-_Briefly describe the project's leadership team and decision-making process._
+_None_
 
 # Links to Documented Governance Practices
 
-_Include a link to the project charter. The project charter can be obtained by completing the [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295)._
+https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295
 
 # Financial Sponsorship
 
