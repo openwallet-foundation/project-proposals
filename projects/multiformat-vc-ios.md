@@ -10,8 +10,8 @@ Labs
 
 Pure Swift package for creating Verifiable Credentials (VCs) in multiple formats
 
-- SD JWT "Selective Disclosure for JWTs (SD-JWT)" using the specification defined at https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/
-- VC JWT "Verifiable Credentials as JWTs" using the format defined at JWT VC Presentation Profile https://identity.foundation/jwt-vc-presentation-profile/
+- SD-JWT VC: Selective Disclosure JWT based Verifiable Credentials - using the specification defined at https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/
+- VC JWT: Verifiable Credentials as JWT - using the format defined at JWT VC Presentation Profile https://identity.foundation/jwt-vc-presentation-profile/
 
 Support for multiple data types for disclosed values including
 
