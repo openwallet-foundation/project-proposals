@@ -44,4 +44,4 @@ _Include a link to the project charter. The project charter can be obtained by c
 _Include any existing financial sponsorship. If none, please state "None"._
 
 # Infrastructure
-_Include any infrastructure needs or requests. OpenWallet Foundation provides a set of [services for projects and labs](https://tac.openwallet.foundation/project-and-lab-services/). Please note which of these you will utilize and what else is required._
+_Include any infrastructure needs or requests. OpenWallet Foundation provides a set of [services for projects and labs](https://tac.openwallet.foundation/governance/project-and-lab-services/). Please note which of these you will utilize and what else is required._
