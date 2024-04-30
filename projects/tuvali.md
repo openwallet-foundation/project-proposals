@@ -2,7 +2,7 @@
 Tuvali - Means a tunnel in [Tamil](https://en.wikipedia.org/wiki/Tamil_language)
 
 # Project Description
-This library contains the implementation for Android & IOS for the Openid4BLE specification. Its written in Kotlin & Swift.
+This library contains the implementation for Android & IOS for the Openid4BLE specification. It's written in Kotlin & Swift.
 
 # Alignment with the OpenWallet Foundation Mission
 This library implements the BLE-based local transfer of Verifiable Presentation (VP). An offline-based mode provides us with the ability to present a VP in many crises and crowded situations, from stadium entries to social benefits in remote areas. This is an important building block for future digital identity wallets to be inclusive. Since it is written in Kotlin & Swift, it can be used widely.
@@ -16,7 +16,7 @@ We will also follow the LF Code of Conduct
 No one Now
 
 # Project License
-Currently the project is hosted with MPL 2.0 license. We will move to Apache license 2.0 upon approval of the project. 
+Currently, the project is hosted with MPL 2.0 license. We will move to Apache license 2.0 upon approval of the project.
 
 # Source Control
 [Repository](https://github.com/mosip/tuvali)
@@ -61,13 +61,13 @@ npm dependencies
 ```
 
 # Release Methodology
-[Releases](https://github.com/mosip/tuvali/releases)
+[Release Process](https://docs.mosip.io/1.2.0/community/release-process)
 
 # Initial Maintainers
 [Maintainers](https://github.com/mosip/tuvali/blob/master/MAINTAINERS.md)
 
 # Proposed Project Governance
-[Governance Under MOSIP](https://www.mosip.io/governance.php)
+[Governance Under MOSIP](https://docs.mosip.io/inji/inji-mobile-wallet/project-governance)
 
 # Links to Documented Governance Practices
 --
@@ -77,11 +77,11 @@ Growth
 
 # Communication Channels
 We use Slack & Discourse
-[Slack](HTTP://mosip-team.slack.com)
+[Slack](https://mosip-team.slack.com)
 [Community](https://community.mosip.io/)
 
 # Project Website
-[Documentation](https://docs.mosip.io/inji/tuvali)
+[Documentation](https://docs.mosip.io/inji/inji-mobile-wallet/integration-guide/tuvali)
 
 # Social Media
 [MOSIP](https://www.linkedin.com/company/mosip-project/?originalSubdomain=in)
