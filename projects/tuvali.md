@@ -61,13 +61,13 @@ npm dependencies
 ```
 
 # Release Methodology
-[Releases](https://github.com/mosip/tuvali/releases)
+[Release Process](https://docs.mosip.io/1.2.0/community/release-process)
 
 # Initial Maintainers
 [Maintainers](https://github.com/mosip/tuvali/blob/master/MAINTAINERS.md)
 
 # Proposed Project Governance
-[Governance Under MOSIP](https://www.mosip.io/governance.php)
+[Governance Under MOSIP](https://docs.mosip.io/inji/inji-mobile-wallet/project-governance)
 
 # Links to Documented Governance Practices
 --
@@ -77,11 +77,11 @@ Growth
 
 # Communication Channels
 We use Slack & Discourse
-[Slack](HTTP://mosip-team.slack.com)
+[Slack](https://mosip-team.slack.com)
 [Community](https://community.mosip.io/)
 
 # Project Website
-[Documentation](https://docs.mosip.io/inji/tuvali)
+[Documentation](https://docs.mosip.io/inji/inji-mobile-wallet/integration-guide/tuvali)
 
 # Social Media
 [MOSIP](https://www.linkedin.com/company/mosip-project/?originalSubdomain=in)
