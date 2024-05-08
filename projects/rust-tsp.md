@@ -54,8 +54,6 @@ This is an early implementation in progress. There is not currently a release me
 We have yet to adopt any process but can work with contributors and OpenWallet community to adopt one.
 
 # Links to Documented Governance Practices
-_Include a link to the project charter. The project charter can be obtained by completing the [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295)._
-
 The LF Intake form completed/submitted.
 
 # Financial Sponsorship
