@@ -51,7 +51,6 @@ This is an early implementation in progress. There is not currently a release me
 - Additional maintainers are expected in the near future
 
 # Proposed Project Governance
-_Briefly describe the project's leadership team and decision-making process._
 We have yet to adopt any process but can work with contributors and OpenWallet community to adope one.
 
 # Links to Documented Governance Practices
