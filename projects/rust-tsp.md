@@ -51,7 +51,7 @@ The source code for to core deps:
 - https://github.com/dalek-cryptography/curve25519-dalek
 - https://github.com/servo/rust-url
 - https://github.com/RustCrypto/formats
-- https://github.com/dtolnay/thiserror```
+- https://github.com/dtolnay/thiserror
 
 # Release Methodology
 This is an early implementation in progress. There is not currently a release methodology, so we will answer with "N/A (not applicable)".
