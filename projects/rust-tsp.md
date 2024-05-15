@@ -7,7 +7,7 @@ We may or may not change this name to something that does not directly reference
 Lab
 
 # Project Description
-This project is an early impementation of the draft Trust Spanning Protocol (TSP): https://github.com/trustoverip/tswg-tsp-specification.
+This project is an early implementation of the draft Trust Spanning Protocol (TSP): https://github.com/trustoverip/tswg-tsp-specification.
 
 According to the above referenced specification, "The Trust Spanning Protocol (TSP) facilitates secure communication between endpoints with potentially different identifier types, using message-based exchanges. As long as these endpoints use identifiers based on public key cryptography (PKC) with a verifiable trust root, TSP ensures their messages are authentic and, if optionally chosen, confidential. Moreover, it presents various privacy protection measures against metadata-based correlation exploitations. These attributes of TSP together allow endpoints to form authentic relationships rooted in their respective verifiable identifiers (VIDs), viewing TSP messages as virtual channels for trustworthy communication.
 ".
