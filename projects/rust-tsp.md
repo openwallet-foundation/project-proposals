@@ -38,7 +38,20 @@ It's in a GitHub repo that can be moved to OpenWallet: https://github.com/wenjin
 We use GitHub issue tracker open to all:https://github.com/wenjing/rust-tsp/issues.
 
 # External Dependencies
-_If there are any external dependencies, please list those here including licenses._
+The only required dependencies for now are the following Rust crates: hpke, rand, sha2, ed25519-dalek, url, base64ct and thiserror.
+
+See the complete list here: https://github.com/wenjing/rust-tsp/blob/main/tsp/Cargo.toml#L42
+
+Also most "async" and "resolve" are from the tokio project https://tokio.rs/ or listed on https://blessed.rs/crates. And if libsodium is used, then also the "crypto_box" crate.
+
+The source code for to core deps:
+- https://github.com/rozbb/rust-hpke
+- https://github.com/rust-random/rand
+- https://github.com/RustCrypto/hashes
+- https://github.com/dalek-cryptography/curve25519-dalek
+- https://github.com/servo/rust-url
+- https://github.com/RustCrypto/formats
+- https://github.com/dtolnay/thiserror```
 
 # Release Methodology
 This is an early implementation in progress. There is not currently a release methodology, so we will answer with "N/A (not applicable)".
