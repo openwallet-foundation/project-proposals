@@ -73,7 +73,7 @@ npm dependencies
 --
 
 # Preferred Maturity Level
-Growth
+Lab
 
 # Communication Channels
 We use Slack & Discourse
