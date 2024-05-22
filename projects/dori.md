@@ -5,9 +5,9 @@ DORI: Decentralized Online Resource for Identity
 Labs
 
 # Project Description
-When talking about wallets for natural persons, a lot of people think that a smartphone based wallet is the only way to go. The user should feel the security and privacy by being independent from an external provider. But we are forgetting that online based services have a great user experience in daily live:
-As a user I can use multiple clients where my data is synced, we do not have to care about backups or data recovery.
-As a developer I can implement the business logic into the cloud and only need the rendering on the client side.
+When talking about wallets for natural persons, a lot of people think that a smartphone based wallet is the only way to go. The user should feel the security and privacy by being independent from an external provider. But we are forgetting that online based services have a great user experience in daily life:
+- As a user I can use multiple clients where my data is synced, we do not have to care about backups or data recovery.
+- As a developer I can implement the business logic into the cloud and only need the rendering on the client side.
 
 Yes, when I am offline, I do not have access to my data anymore. But beside that the user experience is great!
 
