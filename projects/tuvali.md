@@ -28,40 +28,45 @@ Currently, the project is hosted with MIT license. We will move to Apache licens
 [Jira](https://mosip.atlassian.net/issues/?jql=labels%20%3D%20%22BLE%22)
 
 # External Dependencies
-```
-  implementation "com.facebook.react:react-native:+"
-  implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-  implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.2'
 
-  implementation 'org.bouncycastle:bcpkix-jdk15to18:1.68'
-  implementation 'org.bouncycastle:bcprov-jdk15to18:1.68'
-  implementation 'com.github.snksoft:crc:1.1.0'
-  implementation "org.jetbrains.kotlin:kotlin-reflect:1.7.0"
-```
-npm dependencies
+## Gradle dependencies
 
-```
-"@arkweid/lefthook": "^0.7.7",
-    "@commitlint/config-conventional": "^17.0.2",
-    "@react-native-community/eslint-config": "^3.0.2",
-    "@release-it/conventional-changelog": "^5.0.0",
-    "@types/jest": "^28.1.2",
-    "@types/react": "~17.0.21",
-    "@types/react-native": "0.70.0",
-    "commitlint": "^17.0.2",
-    "del-cli": "^5.0.0",
-    "eslint": "^8.4.1",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^28.1.1",
-    "pod-install": "^0.1.0",
-    "prettier": "^2.0.5",
-    "react": "18.1.0",
-    "react-native": "0.70.6",
-    "react-native-builder-bob": "^0.20.0",
-    "release-it": "^15.0.0",
-    "typescript": "^4.5.2"
-```
+|                  Dependency                   |       Version        |                          License                           |
+|:---------------------------------------------:|:--------------------:|:----------------------------------------------------------:|
+|        com.facebook.react:react-native        | not specific version |                            MIT                             |
+|      org.jetbrains.kotlin:kotlin-stdlib       |        1.7.0         |                         Apache-2.0                         |
+| org.jetbrains.kotlinx:kotlinx-coroutines-core |        1.3.2         |                         Apache-2.0                         |
+|       org.bouncycastle:bcpkix-jdk15to18       |         1.68         |     [MIT](https://www.bouncycastle.org/about/license/)     |
+|       org.bouncycastle:bcprov-jdk15to18       |         1.68         |     [MIT](https://www.bouncycastle.org/about/license/)     |
+|            com.github.snksoft:crc             |        1.1.0         | [BSD License](https://opensource.org/license/BSD-3-Clause) |
+|      org.jetbrains.kotlin:kotlin-reflect      |        1.7.0         |                         Apache-2.0                         |
+
+
+## npm dependencies
+
+|              Dependency               | Version  |  License   |
+|:-------------------------------------:|:--------:|:----------:|
+|           @arkweid/lefthook           |  ^0.7.7  |    MIT     |
+|    @commitlint/config-conventional    | ^17.0.2  |    MIT     |
+| @react-native-community/eslint-config |  ^3.0.2  |    MIT     |
+|  @release-it/conventional-changelog   |  ^5.0.0  |    MIT     |
+|              @types/jest              | ^28.1.2  |    MIT     |
+|             @types/react              | ~17.0.21 |    MIT     |
+|          @types/react-native          |  0.70.0  |    MIT     |
+|              commitlint               | ^17.0.2  |    MIT     |
+|                del-cli                |  ^5.0.0  |    MIT     |
+|                eslint                 |  ^8.4.1  |    MIT     |
+|        eslint-config-prettier         |  ^8.5.0  |    MIT     |
+|        eslint-plugin-prettier         |  ^4.0.0  |    MIT     |
+|                 jest                  | ^28.1.1  |    MIT     |
+|              pod-install              |  ^0.1.0  |    MIT     |
+|               prettier                |  ^2.0.5  |    MIT     |
+|                 react                 |  18.1.0  |    MIT     |
+|             react-native              |  0.70.6  |    MIT     |
+|       react-native-builder-bob        | ^0.20.0  |    MIT     |
+|              release-it               | ^15.0.0  |    MIT     |
+|              typescript               | ^4.5.2"  | Apache-2.0 |
+
 
 # Release Methodology
 [Release Process](https://docs.mosip.io/1.2.0/community/release-process)
@@ -73,7 +78,7 @@ npm dependencies
 [Governance Under MOSIP](https://docs.mosip.io/inji/inji-mobile-wallet/project-governance)
 
 # Links to Documented Governance Practices
---
+https://docs.mosip.io/inji/inji-mobile-wallet/project-governance
 
 # Financial Sponsorship
 [MOSIP](https://www.mosip.io/)
