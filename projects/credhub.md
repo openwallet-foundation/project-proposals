@@ -11,7 +11,7 @@ When talking about wallets for natural persons, a lot of people think that a sma
 
 Yes, when I am offline, I do not have access to my data anymore. But beside that the user experience is great!
 
-The crehub project is a typescript based monorepo, using [nx](https://nx.dev) to manage multiple components. Compared to other approaches, it also comes with an issuer and verifier service to issue and verify credentials.
+The credhub project is a typescript based monorepo, using [nx](https://nx.dev) to manage multiple components. Compared to other approaches, it also comes with an issuer and verifier service to issue and verify credentials.
 
 ## Clients
 There are two clients that can be used to interact with a cloud wallet
