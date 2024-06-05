@@ -19,7 +19,7 @@ To provide mdl features to Biggest Wallet SDKs like credo or veramo, direction o
 - Provide a platform agnostic implementation of the MDL specification
 - Bring your own crypto
 - Modular approach
-- Provide platform sepcific helper implementations for developers to use easily
+- Provide platform specific helper implementations for developers to use easily
 
 # Alignment with the OpenWallet Foundation Mission
 
