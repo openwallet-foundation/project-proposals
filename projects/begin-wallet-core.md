@@ -2,7 +2,7 @@
 Begin Wallet Core
 
 # Preferred Maturity Level
-Growth
+Growth -
 We're in production using this library on our wallet and looking for more active support from the Foundation or TAC mentorship to reach bigger goals.
 
 # Project Description
@@ -49,6 +49,7 @@ Apache 2.0
 
 # Source Control
 [GitHub](https://github.com/BeginWallet/begin-core)
+* We'll squash all commits to add DCO when we transfer this repo.
 
 # Issue Tracker
 [GitHub](https://github.com/BeginWallet/begin-core)
