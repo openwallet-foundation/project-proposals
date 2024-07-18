@@ -47,10 +47,10 @@ No
 Apache 2.0
 
 # Source Control
-GitHub
+[GitHub](https://github.com/BeginWallet/begin-core)
 
 # Issue Tracker
-GitHub
+[GitHub](https://github.com/BeginWallet/begin-core)
 
 # External Dependencies
 - @dcspark/cardano-multiplatform-lib-(nodejs & browser) - (MIT)
