@@ -49,7 +49,7 @@ Apache 2.0
 
 # Source Control
 [GitHub](https://github.com/BeginWallet/begin-core)
-* We'll squash all commits to add DCO when we transfer this repo.
+* We'll amend the commit history to include DCO sign-off for each of the commits before we transfer this repo.
 
 # Issue Tracker
 [GitHub](https://github.com/BeginWallet/begin-core)
