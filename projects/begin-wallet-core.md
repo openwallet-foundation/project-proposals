@@ -18,7 +18,7 @@ Begin.is addresses the critical need for secure and efficient management of digi
 1. Security: Provides robust security features to protect against hacking and unauthorized access.
 2. Convenience: Simplifies cryptocurrency management, making it easier for users to store, send, and receive digital assets.
 3. Accessibility: Designed to be user-friendly, lowering the barrier to entry for individuals new to cryptocurrencies.
-4. Interoperability: Supports multiple cryptocurrencies and blockchain networks, offering a versatile solution for managing diverse digital assets.
+4. Interoperability: Supports multiple cryptocurrencies and blockchain networks like Bitcoin and Ethereum, offering a versatile solution for managing diverse digital assets.
 5. Privacy: Enhances user privacy through decentralized identity integrations, giving users more control over their personal data.
 
 
