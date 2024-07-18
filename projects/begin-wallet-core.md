@@ -3,6 +3,7 @@ Begin Wallet Core
 
 # Preferred Maturity Level
 Growth
+We're in production using this library on our wallet and looking for more active support from the Foundation or TAC mentorship to reach bigger goals.
 
 # Project Description
 ### What it Does:
