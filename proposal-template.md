@@ -37,9 +37,6 @@ _Include the names of initial maintainers and their GitHub IDs._
 # Proposed Project Governance
 _Briefly describe the project's leadership team and decision-making process._
 
-# Links to Documented Governance Practices
-_Include a link to the project charter if one exists. If there is no existing charter, please reach out to Community Architects once the project is approved. 
-
 # Financial Sponsorship
 _Include any existing financial sponsorship. If none, please state "None"._
 
