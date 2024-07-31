@@ -1,5 +1,5 @@
 # Project Name
-Begin Wallet Core
+Build Wallet Core
 
 # Preferred Maturity Level
 Labs -
