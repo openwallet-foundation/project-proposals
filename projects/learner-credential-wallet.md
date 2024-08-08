@@ -1,11 +1,12 @@
+
 # Project Name
-Verifiable Credential Wallet
+Learner Credential Wallet
 
 # Preferred Maturity Level
 Labs stage
 
 # Project Description
-The Verifiable Credential Wallet is a cross-platform iOS and Android mobile application for storing and sharing digital credentials, starting with higher learning.
+The Learner Credential Wallet is a cross-platform iOS and Android mobile application for storing and sharing digital credentials, starting with higher learning.
 
 The wallet is based on the learner credential wallet specification developed by the Digital Credentials Consortium. 
 
@@ -18,7 +19,7 @@ Whenver possible, we use existing open standards from W3C, IETF, and other open 
 This project aligns with the OWF mission, because it's an open source example implementation of wallet-related open standards.
 
 # Code of Conduct
-https://wiki.dcconsortium.org/app/page/1SYYIdVWKAdBIBx3BwSFWZKytJ9zPprAZFTbD_7Bfo4Y?p=1h1VJHHv2zSe0n9Ltg-KQevSuqWbGcExy
+https://linuxfoundation.eu/en/policies
 
 # TAC Sponsor
 
