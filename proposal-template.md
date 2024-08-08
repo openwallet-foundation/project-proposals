@@ -37,9 +37,6 @@ _Include the names of initial maintainers and their GitHub IDs._
 # Proposed Project Governance
 _Briefly describe the project's leadership team and decision-making process._
 
-# Links to Documented Governance Practices
-_Include a link to the project charter. The project charter can be obtained by completing the [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295)._
-
 # Financial Sponsorship
 _Include any existing financial sponsorship. If none, please state "None"._
 
