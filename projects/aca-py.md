@@ -12,7 +12,7 @@ ACA-Py is a mature and proven project with a large user and contributor base.
 
 ## Project Description
 
-The ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
+ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
 
 It is both a full implementation of Aries Interop Profile (AIP) 2.0 and a toolkit for building issuers and verifiers beyond the AIP protocols, such as using [OpenID4VCs](https://openid.net/sg/openid4vc/) and the [UN Transparency Protocol](https://uncefact.github.io/spec-untp/) (UNTP). ACA-Py operates in the second and third layers of the [Trust Over IP framework](https://trustoverip.org/toip-model/) using DIDComm messaging and Aries DIDComm and other credential exchange protocols. The "cloud" in the name means that ACA-Py runs on servers (cloud, enterprise, IoT devices, and so forth), and is not designed to run on mobile devices.
 
