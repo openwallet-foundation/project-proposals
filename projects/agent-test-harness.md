@@ -74,6 +74,7 @@ The only “release” from Agent Test Harness is the test execution results sum
 | Sheldon Regular | nodlesh     | Funded by Government of British Columbia |
 | Stephen Curran  | swcurran    | Funded by Government of British Columbia |
 | Kim Ebert       | KimEbert42  | Indicio, PBC                             |
+| Alex Walker     | anwalker293 | Inidicio, PBC                            |
 | Ian Costanzo    | ianco       | Funded by Government of British Columbia |
 | Timo Glastra    | TimoGlastra | Animo Solutions                          |
 
