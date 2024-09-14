@@ -29,7 +29,7 @@ Askar supports the OWF’s goals by providing a secure, scalable technological f
 
 ## Code of Conduct
 
-Askar follows the[ Hyperledger Code of Conduct](https://github.com/hyperledger/aries-askar/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.  
+Askar follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-askar/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.  
 
 ## TAC Sponsor
 
@@ -69,7 +69,7 @@ All proposed repositories have continuous deployment/delivery pipelines built us
 
 ## Proposed Project Governance
 
-The current governance model under Hyperledger is consensus-based. This means that decisions are made through discussions, with the aim of community consensus, as outlined in the[ Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=sharing). In cases where no clear consensus is established, a project Technical Steering Committee, or the maintainers (those with escalated GitHub privileges) are granted a louder voice. This approach has proven effective.
+The current governance model under Hyperledger is consensus-based. This means that decisions are made through discussions, with the aim of community consensus, as outlined in the [Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=sharing). In cases where no clear consensus is established, a project Technical Steering Committee, or the maintainers (those with escalated GitHub privileges) are granted a louder voice. This approach has proven effective.
 
 ## Links to Documented Governance Practices
 
