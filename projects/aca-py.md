@@ -38,7 +38,7 @@ ACA-Py follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/
 ## TAC Sponsor
 
 * Tracy Kuhrt
-* TBD
+* Wenjing Chu
 
 ## Project License
 
