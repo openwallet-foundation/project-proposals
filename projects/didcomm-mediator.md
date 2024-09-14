@@ -12,14 +12,14 @@ We propose that the project go into OWF as a “Growth” project. The implement
 
 ## Project Description
 
-The Aries Mediator Service is an open-source project within Hyperledger Aries designed to facilitate DIDComm communication between Aries agents, particularly in situations where agents are on mobile devices, behind firewalls, or have intermittent connectivity. A DIDComm mediator serves as a persistent endpoint for client agents, allowing them to receive messages securely and efficiently, even when direct peer-to-peer communication is not possible. This allows a peer contact, such as an enterprise issuer or verifier, to initiate a messaging exchange with a mobile agent. This is a substantial improvement of the situation today, when enterprises are limited to initiating interactions or sending notifications via untrusted emails and SMSs that are often discarded as phishing attacks.
+The DIDComm Mediator Service is an open-source project designed to facilitate DIDComm communication between Aries agents, particularly in situations where agents are on mobile devices, behind firewalls, or have intermittent connectivity. A DIDComm mediator serves as a persistent endpoint for client agents, allowing them to receive messages securely and efficiently, even when direct peer-to-peer communication is not possible. This allows a peer contact, such as an enterprise issuer or verifier, to initiate a messaging exchange with a mobile agent. This is a substantial improvement of the situation today, when enterprises are limited to initiating interactions or sending notifications via untrusted emails and SMSs that are often discarded as phishing attacks.
 
 ### Key Features:
 
 * **DIDComm Message Relaying**: The primary function of the DIDComm Mediator is to relay inbound DIDComm messages to client agents. It enables agents that cannot maintain an addressable endpoint to receive messages through a trusted third-party mediator, ensuring that communication remains uninterrupted. The mediator has no visibility to the embedded message being relayed.
 * **Routing and Delivery**: The service offers routing capabilities, directing DIDComm messages to the correct recipient even if the recipient’s agent is temporarily offline. It queues messages and delivers them when the recipient becomes available, enhancing reliability in environments with unstable connections.
-* **Extensibility and Customization**: DIDComm Mediator is designed to be flexible and customizable, allowing developers to extend its functionality according to specific use cases. It embeds the deployers' choice of ACA-Py or Credo-TS to handle the DIDComm messaging. That underlying power makes Aries Mediator Service adaptable to a wide range of deployment scenarios, from simple message relaying to more complex mediation tasks.
-* **Community-Driven Development**: As with other Hyperledger Aries projects, the Aries Mediator Service is developed and maintained by a global community of contributors. This collaborative approach ensures that the service evolves in line with the needs of the broader decentralized identity ecosystem.
+* **Extensibility and Customization**: DIDComm Mediator is designed to be flexible and customizable, allowing developers to extend its functionality according to specific use cases. It embeds the deployers' choice of ACA-Py or Credo-TS to handle the DIDComm messaging. That underlying power makes DIDComm Mediator Service adaptable to a wide range of deployment scenarios, from simple message relaying to more complex mediation tasks.
+* **Community-Driven Development**: DIDComm Mediator Service is developed and maintained by a global community of contributors. This collaborative approach ensures that the service evolves in line with the needs of the broader decentralized identity ecosystem.
 
 The service is particularly useful for agents operating on mobile devices or in environments where maintaining a constant connection is challenging. It ensures that unsolicited messages and notifications can be sent from a known peer via an established connection.
 
@@ -35,7 +35,7 @@ The DIDComm Mediator aligns with the mission of the Open Wallet Foundation (OWF)
 
 ## Code of Conduct
 
-ACA-Py follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-agent-test-harness/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.
+DIDComm Mediator Service follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-agent-test-harness/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.
 
 ## TAC Sponsor
 
