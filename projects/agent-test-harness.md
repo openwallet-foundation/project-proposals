@@ -29,11 +29,11 @@ Agent Test Harness supports the OWF’s goals by focusing on interoperability, a
 
 1. Interoperability: The primary purpose of Agent Test Harness is to ensure interoperability between different agents by validating their ability to communicate using standard protocols like DIDComm and to handle core functions like verifiable credential exchanges. It provides a consistent testing environment to verify that agents from different developers and organizations, evolving independently, can work together seamlessly.
 2. Promotion of Open Standards: As an open-source tool, Agent Test Harness is built around open standards and protocols, ensuring that the agents it tests comply with widely accepted norms in the decentralized identity space. This approach encourages the adoption of these standards across the industry, fostering a more unified and interoperable ecosystem.
-3. Facilitating Innovation and Adoption:  By providing developers with a tool to validate their agents with those developed by others in the space, Agent Test harness lowers the barriers to entry for creating new, compliant, and interoperable decentralized identity solutions. This facilitates innovation and encourages the adoption of decentralized identity technologies.
+3. Facilitating Innovation and Adoption:  By providing developers with a tool to validate their agents with those developed by others in the space, Agent Test Harness lowers the barriers to entry for creating new, compliant, and interoperable decentralized identity solutions. This facilitates innovation and encourages the adoption of decentralized identity technologies.
 
 ## Code of Conduct
 
-ACA-Py follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-agent-test-harness/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.
+Agent Test Harness follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-agent-test-harness/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on.
 
 ## TAC Sponsor
 
