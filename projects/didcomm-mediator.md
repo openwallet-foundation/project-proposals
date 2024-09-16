@@ -40,7 +40,7 @@ DIDComm Mediator Service follows the [Hyperledger Code of Conduct](https://githu
 ## TAC Sponsor
 
 * Tracy Kuhrt
-* TBD
+* Wenjing Chu
 
 ## Project License
 
