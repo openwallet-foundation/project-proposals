@@ -34,7 +34,7 @@ Askar follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/a
 ## TAC Sponsor
 
 * Tracy Kuhrt
-* TBD
+* Wenjing Chu
 
 ## Project License
 
