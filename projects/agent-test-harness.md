@@ -38,7 +38,7 @@ Agent Test Harness follows the [Hyperledger Code of Conduct](https://github.com/
 ## TAC Sponsor
 
 * Tracy Kuhrt
-* TBD
+* Wenjing Chu
 
 ## Project License
 
