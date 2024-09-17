@@ -8,7 +8,76 @@ At this time we are planning to keep the name ACA-Py, although we may drop that 
 
 Given the “[1.0.0](https://aca-py.org/latest/CHANGELOG/#100)” maturity of this project, its global recognition (including a [UN “Future of Digital Government” award](https://www.undp.org/policy-centre/singapore/blog/celebrating-future-digital-government)) and its widespread production use, we think ACA-Py should be an “Impact” project at OWF. ACA-Py is broadly used across the world (with [50M+ docker image downloads](https://hub.docker.com/r/bcgovimages/aries-cloudagent)), contains years of evolving contributions, and an [LTS Policy](https://aca-py.org/latest/LTS-Strategy/). ACA-Py includes a “plugins” capability, a [repository](https://plugins.aca-py.org) of up-to-date extensions, and a mature process for contributing and maintaining those plugins.
 
-ACA-Py is a mature and proven project with a large user and contributor base.
+The following sub-sections how ACA-Py meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
+
+### Growth
+
+* 2 TAC sponsors to champion the project and provide mentorship as needed.
+* Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
+* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
+    * Defined Roadmap Activities:
+        * Broader DID registration support, including did:web, did:tdw and others.
+        * Integration with Servers for publishing did:web and did:tdw DIDs
+        * Encouragement of [plugins](https://plugins.aca-py.org) publication and continued optimization of plugins
+        * Expanded support for OpenID4VCs, largely implemented as a [plugin](https://plugins.aca-py.org/latest/oid4vc/)
+        * Expanded SD-JWT issuing and verification support, based on the OWF [sd-jwt-py](https://github.com/openwallet-foundation-labs/sd-jwt-python) project.
+        * Support for DIDComm v2 and [TSP](https://trustoverip.github.io/tswg-tsp-specification/)
+        * Orderly deprecation of AIP v1.0 features
+* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * [AYANWORKS](https://www.ayanworks.com/)
+    * [Anonyome Labs](https://anonyome.com/)
+    * [DIDx](https://www.didx.co.za/)
+    * [Northern Block](https://northernblock.io/)
+    * [CPQD](https://www.cpqd.com.br/)
+    * [SCOPEfusion](https://scopefusion.net/)
+    * [GAN](https://gan.foundation/)
+    * Open Security and Identity inc.
+* Demonstrate a substantial ongoing flow of commits and merged contributions.
+    * 100 [Contributors](https://github.com/hyperledger/aries-cloudagent-python/graphs/contributors) since project inception
+    * [314 PRs merged since 2024.01.01](https://github.com/hyperledger/aries-cloudagent-python/pulls?q=is%3Apr+is%3Amerged+merged%3A%3E2024-01-01+)
+    * [50M+ Docker Hub pulls](https://hub.docker.com/r/bcgovimages/aries-cloudagent)
+* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
+    * Contributors driven by organizations with diverse goals — [AIP v2.0](https://github.com/hyperledger/aries-rfcs/tree/master/concepts/0302-aries-interop-profile#aries-interop-profile-version-20) and beyond, OpenID4VCs, DIDComm v2, mDL, [UN Transparency Protocol](https://uncefact.github.io/spec-untp/), [W3C VC-API](https://w3c-ccg.github.io/vc-api/), technical debt elimination, and so on. The community participation allows for coherent progress on a variety of goals in parallel. The maintainer community coordinates the additions, recommending new features be added in the core and in plugins.
+* Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
+* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
+    * ACA-Py is a companion to the [Credo-TS](https://github.com/openwallet-foundation/credo-ts) and [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) projects— a server side digital trust framework and toolkit.
+    * ACA-Py has a dependency on the OWF [sd-jwt-py](https://github.com/openwallet-foundation-labs/sd-jwt-python) project.
+    * Several other OWF Projects are candidates to be imported into ACA-Py.
+
+### Impact
+
+* Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than one-third is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * [AYANWORKS](https://www.ayanworks.com/)
+    * [Anonyome Labs](https://anonyome.com/)
+    * [Northern Block](https://northernblock.io/)
+    * [CPQD](https://www.cpqd.com.br/)
+* Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
+    * Initially the [Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=drive_link) and Aries [TSC.md](https://github.com/hyperledger/aries/blob/main/TSC.md) and [MAINTAINERS.md](https://github.com/hyperledger/aries/blob/main/MAINTAINERS.md) and evolving them to be ACA-Py specific in the OWF context.
+* Have a healthy number of maintainers from at least two organizations. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
+    * 100 total [contributors](https://github.com/hyperledger/aries-cloudagent-python/graphs/contributors)
+    * Maintainers are currently from 2 Organizations (BC Gov, Indicio), but we have a number of other contributors more than capable of being maintainers, with the process started for one to become a maintainer.
+* Have a Code of Conduct in a form acceptable to the OpenWallet Foundation.
+    * Based on the Hyperledger Code of Conduct
+* Explicitly define a project governance and maintainer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and MAINTAINERS.md file showing the current and emeritus maintainers (see MAINTAINERS.md File Contents for more information).
+    * Initially the[ Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=drive_link) and Aries[ TSC.md](https://github.com/hyperledger/aries/blob/main/TSC.md) and[ MAINTAINERS.md](https://github.com/hyperledger/aries/blob/main/MAINTAINERS.md) and evolving them to be ACA-Py specific in the OWF context.
+* Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * [AYANWORKS](https://www.ayanworks.com/)
+    * [Anonyome Labs](https://anonyome.com/)
+    * [DIDx](https://www.didx.co.za/)
+    * [Northern Block](https://northernblock.io/)
+    * [CPQD](https://www.cpqd.com.br/)
+* Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
+    * We have not collected this information to now, but will add it to the repo.
+* Have a good standing with respect to security.
+    * We have excellent practices around the use of dependabot, and the regular updating of all dependencies, including a track record of updating the version of Python supported.
+* Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
+* Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements.
 
 ## Project Description
 
@@ -60,7 +129,8 @@ Issues are tracked using GitHub's Issues feature in the corresponding repository
 
 ## External Dependencies
 
-The ACA-Py dependency list is maintained in the [source repository](https://github.com/hyperledger/aries-cloudagent-python/blob/main/pyproject.toml). A NOTICES file is also in the repository, but needs to be updated.
+The ACA-Py dependency list is maintained in the [source repository](https://github.com/hyperledger/aries-cloudagent-python/blob/main/pyproject.toml). A NOTICES file is also in the repository, but needs to be updated. All of the
+dependencies are open source, and we believe most use the Apache 2 license, but some legwork may be required to verify that.
 
 ## Release Methodology
 
