@@ -8,7 +8,7 @@ At this time we are planning to keep the name ACA-Py, although we may drop that 
 
 Given the “[1.0.0](https://aca-py.org/latest/CHANGELOG/#100)” maturity of this project, its global recognition (including a [UN “Future of Digital Government” award](https://www.undp.org/policy-centre/singapore/blog/celebrating-future-digital-government)) and its widespread production use, we think ACA-Py should be an “Impact” project at OWF. ACA-Py is broadly used across the world (with [50M+ docker image downloads](https://hub.docker.com/r/bcgovimages/aries-cloudagent)), contains years of evolving contributions, and an [LTS Policy](https://aca-py.org/latest/LTS-Strategy/). ACA-Py includes a “plugins” capability, a [repository](https://plugins.aca-py.org) of up-to-date extensions, and a mature process for contributing and maintaining those plugins.
 
-The following sub-sections how ACA-Py meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
+The following sub-sections cover how ACA-Py meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
 
 ### Growth
 
