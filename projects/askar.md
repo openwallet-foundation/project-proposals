@@ -8,7 +8,7 @@ We plan to keep the name Askar, dropping the “Aries” prefix. The project is 
 
 The project should at least be a “Growth”, and arguably, “Impact”, given its maturity, robustness, the number of projects (all Aries frameworks, Credo-TS, and others outside of Aries) in which it is embedded, and the myriad of production deployments of those projects. The project is lacking sufficient documentation and the documentation website, which might hold it back from being an “Impact” project.
 
-The following sub-sections how Askar meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
+The following sub-sections cover how Askar meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
 
 ### Growth
 
