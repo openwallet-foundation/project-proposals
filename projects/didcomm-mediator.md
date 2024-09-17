@@ -10,11 +10,36 @@ The DIDComm Mediator Service offers a secure alternative to traditional, untrust
 
 We propose that the project go into OWF as a “Growth” project. The implementation has been deployed by many parties in both production and proof of concept scenarios and has proven to be reliable and scalable. It is easily deployed and “just works”. The included “SocketDoc” repository can provide expanded horizontal scalability not currently part of the current deployment. We think a fully scalable implementation of a DIDComm mediator could be an “Impact” project.
 
+The following sub-section covers how DIDComm Mediator Service meets the criteria for OpenWallet Foundation Growth projects:
+
+### Growth
+
+* 2 TAC sponsors to champion the project and provide mentorship as needed.
+* Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
+* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
+    * DIDComm Mediator Service is complete and can be (and is) deployed in production use cases.
+    * Roadmap:
+        * Continued evolution as the underlying frameworks ([ACA-Py](https://aca-py.org), [Credo-TS](https://credo.js.org/)) evolve.
+        * Integration of [SocketDock](https://github.com/hyperledger/aries-socketdock?search=1) into the main repository to enable scaled deployments supporting WebSocket-connected mobile agents.
+        * Extending support to include [DIDComm v2](https://identity.foundation/didcomm-messaging/spec/) and [Trust Spanning Protocol](https://trustoverip.github.io/tswg-tsp-specification/).
+* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * Likely used in [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) deployments
+* Demonstrate a substantial ongoing flow of commits and merged contributions.
+    * DIDComm Mediator Service is built on [ACA-Py](https://aca-py.org), so all contributions to ACA-Py flow to it.
+    * 18 [Contributors](https://github.com/hyperledger/aries-mediator-service/graphs/contributors)
+* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
+    * As the need arises for features, community members add them.
+* Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
+* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
+    * The only OWF project that might overlap with the DIDComm Mediator Service is the TSP project’s example “[intermediary service](https://github.com/openwallet-foundation-labs/tsp/blob/main/docs/intermediary.md)”. As DIDComm and TSP are conceptually similar, it is expected that over time, support for the Trust Spanning Protocol (TSP) will be added to DIDComm Mediator Service.
+
 ## Project Description
 
 The DIDComm Mediator Service is an open-source project designed to facilitate DIDComm communication between Aries agents, particularly in situations where agents are on mobile devices, behind firewalls, or have intermittent connectivity. A DIDComm mediator serves as a persistent endpoint for client agents, allowing them to receive messages securely and efficiently, even when direct peer-to-peer communication is not possible. This allows a peer contact, such as an enterprise issuer or verifier, to initiate a messaging exchange with a mobile agent. This is a substantial improvement of the situation today, when enterprises are limited to initiating interactions or sending notifications via untrusted emails and SMSs that are often discarded as phishing attacks.
 
-### Key Features:
+### Key Features
 
 * **DIDComm Message Relaying**: The primary function of the DIDComm Mediator is to relay inbound DIDComm messages to client agents. It enables agents that cannot maintain an addressable endpoint to receive messages through a trusted third-party mediator, ensuring that communication remains uninterrupted. The mediator has no visibility to the embedded message being relayed.
 * **Routing and Delivery**: The service offers routing capabilities, directing DIDComm messages to the correct recipient even if the recipient’s agent is temporarily offline. It queues messages and delivers them when the recipient becomes available, enhancing reliability in environments with unstable connections.
