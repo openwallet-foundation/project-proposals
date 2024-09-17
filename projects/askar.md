@@ -8,6 +8,58 @@ We plan to keep the name Askar, dropping the “Aries” prefix. The project is 
 
 The project should at least be a “Growth”, and arguably, “Impact”, given its maturity, robustness, the number of projects (all Aries frameworks, Credo-TS, and others outside of Aries) in which it is embedded, and the myriad of production deployments of those projects. The project is lacking sufficient documentation and the documentation website, which might hold it back from being an “Impact” project.
 
+The following sub-sections how Askar meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
+
+### Growth
+
+* 2 TAC sponsors to champion the project and provide mentorship as needed.
+* Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
+* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
+    * Askar is largely complete for its intended goals, and has been productized.
+    * Continued evolution is occurring based on deployer learnings, and in the maintenance of wrappers for expanding opportunities for use.
+    * A documentation web site is needed. Users are currently sophisticated developers that know how to use keys.
+    * A security assessment would be a valuable addition. Askar is a layer up from the cryptography, and uses known cryptography and libraries, but an assessment of how it is using those capabilities would be valuable.
+* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * Anyone using [Credo-TS](https://credo.js.org/), [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) and [ACA-Py](https://aca-py.org)
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * [AYANWORKS](https://www.ayanworks.com/)
+    * [DIDx](https://www.didx.co.za/)
+    * [Northern Block](https://northernblock.io/)
+    * Open Security and Identity inc.
+* Demonstrate a substantial ongoing flow of commits and merged contributions.
+    * 19 [Contributors](https://github.com/hyperledger/aries-askar/graphs/contributors)
+    * Steady flow of commits — indicative of a fully featured project.
+* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
+    * The community around Askar are those contributing to and maintaining the frameworks using Askar — ACA-Py, Credo-TS, etc.
+* Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
+* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
+
+### Impact
+
+* Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than one-third is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * TBD
+* Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
+    * Start from the[ Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=drive_link) and Aries[ TSC.md](https://github.com/hyperledger/aries/blob/main/TSC.md) and[ MAINTAINERS.md](https://github.com/hyperledger/aries/blob/main/MAINTAINERS.md) and evolve them to be Askar specific in the OWF context.
+* Have a healthy number of maintainers from at least two organizations. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
+    * 19 [Contributors](https://github.com/hyperledger/aries-askar/graphs/contributors) Total
+    * Maintainers from 3 Organizations — BC Gov, Indicio, [Animo Solutions](https://animo.id/)
+* Have a Code of Conduct in a form acceptable to the OpenWallet Foundation.
+    * Evolve from the Hyperledger Code of Conduct
+* Explicitly define a project governance and maintainer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and MAINTAINERS.md file showing the current and emeritus maintainers (see MAINTAINERS.md File Contents for more information).
+    * Evolve from the Aries Governance documentation.
+* Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * Anyone using[ Credo-TS](https://credo.js.org/),[ Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) and[ ACA-Py](https://aca-py.org/) in production
+* Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
+    * To be added to the repository.
+* Have a good standing with respect to security.
+* Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
+* Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements.
+
 ## Project Description
 
 Askar is an open-source, secure storage and key management service implemented in Rust (with wrappers for Python and JavaScript/TypeScript), designed to support the needs of decentralized trust systems within and beyond the Aries ecosystem. It is a critical component that securely manages cryptographic keys, credentials, and other sensitive data used in decentralized identity frameworks. Askar is the secure storage/key management solution for Credo-TS, ACA-Py, Identus, Aries VCX, and other decentralized trust projects.
@@ -52,7 +104,7 @@ The issues are tracked using GitHub's Issues feature in the corresponding reposi
 
 ## External Dependencies
 
-The ACA-Py dependency list is maintained in the [source repository](https://github.com/hyperledger/aries-askar/blob/main/Cargo.toml).
+The ACA-Py dependency list is maintained in the [source repository](https://github.com/hyperledger/aries-askar/blob/main/Cargo.toml). All are open source and we believe (but to be verified) that the majority use the Apache 2 License.
 
 ## Release Methodology
 
