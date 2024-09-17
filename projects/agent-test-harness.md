@@ -8,6 +8,42 @@ In proposing to bring the current [Aries Agent Test Harness](https://aries-inter
 
 We propose that the project be at the “Growth” level.  All three of the components have been used extensively in the past and are well documented. Many groups have used the tools in testing their own instances of the various support agents and wallets.  As we move the project to OWF and start up the Wallet Interoperability Special Interest Group (link to PR to be added) these tools will be useful in enabling testing across frameworks and deployments built on those deployments. We look to expand their use in both the scope of the testing they enable, and their use by the community.
 
+The following sub-section covers how Agent Test Harness meets OpenWallet Foundation maturity level criteria for Growth projects.
+
+### Growth
+
+* 2 TAC sponsors to champion the project and provide mentorship as needed.
+* Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
+* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
+    * Defined Roadmap Activities:
+        * Short Term (3 months)
+            * Credo Backchannel OOB/DIDExchange Support
+            * Full Credo AIP 2.0 Support in Backchannel
+            * RFC 0794 DID Rotate with Credo/ACA-Py/VCX
+            * Mobile Backchannel Headless App Support
+            * Migrate AATH to use fully qualified credential identifiers instead of legacy indy
+            * Remote agent in any role support
+        * Medium Term (6 Months)
+            * Expand AnonCreds Handling and Tests
+            * Large Scenario Tests (test chaining)
+            * Removal of the AIP 1.0 & 2.0 classifications/handling
+            * Tests for Proof requests for multiple AnonCreds w/wo revocation
+            * Backchannels moved to out of AATH and into the Frameworks purview
+        * Long Term (9 month to 1 year)
+            * OID4VC support in AATH
+            * DIDComm V2 Test Scenarios
+* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
+    * [Indicio, PBC](https://indicio.tech/)
+    * [GAN](https://gan.foundation/)
+* Demonstrate a substantial ongoing flow of commits and merged contributions.
+    * 29 [Contributors](https://github.com/hyperledger/aries-agent-test-harness/graphs/contributors) and a steady flow of contributions
+    * Ongoing maintenance to both add and remove tests and components being tested.
+* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
+    * The interoperability and load testing is inherently crucial to all users and contributors to [Credo-TS](https://credo.js.org/), [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet), [ACA-Py](https://aca-py.org) and [Aries VCX](https://github.com/hyperledger/aries-vcx) (Aries Framework).
+* Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
+* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
+
 ## Project Description
 
 Agent Test Harness is an extensible open-source testing framework designed to validate the functionality and interoperability of agents and components within the decentralized trust ecosystem. A summary of its daily interoperability test runs are published on the website [https://aries-interop.info](https://aries-interop.info). The test harness is crucial for ensuring that different decentralized trust agent implementations, which are responsible for handling decentralized identifiers (DIDs) and exchanging verifiable credentials, can interoperate seamlessly. Agent Test Harness currently includes support for the OWF’s Credo-TS project, and is used by the OWF’s Mobile Agent Test Harness project.
