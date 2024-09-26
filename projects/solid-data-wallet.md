@@ -41,7 +41,7 @@ TBD
 
 # Source Control
 
-[OpenWallet Foundation Labs]](https://github.com/openwallet-foundation-labs)
+[OpenWallet Foundation Labs](https://github.com/openwallet-foundation-labs)
 
 # Issue Tracker
 
