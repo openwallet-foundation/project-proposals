@@ -45,7 +45,7 @@ TBD
 
 # Issue Tracker
 
-[OpenWallet Foundation Labs]](https://github.com/openwallet-foundation-labs)
+[OpenWallet Foundation Labs](https://github.com/openwallet-foundation-labs)
 
 # External Dependencies
 
