@@ -41,7 +41,7 @@ TBD
 
 # Source Control
 
-[OpenWallet Foundation Labs](https://github.com/openwallet-foundation-labs)
+The project is currently open source and hosted on [github](https://github.com/inrupt/inrupt-data-wallet) by Inrupt.
 
 # Issue Tracker
 
