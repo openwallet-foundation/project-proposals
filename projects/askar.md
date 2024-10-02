@@ -6,41 +6,16 @@ We plan to keep the name Askar, dropping the “Aries” prefix. The project is 
 
 ## Preferred Maturity Level
 
-The project should at least be a “Growth”, and arguably, “Impact”, given its maturity, robustness, the number of projects (all Aries frameworks, Credo-TS, and others outside of Aries) in which it is embedded, and the myriad of production deployments of those projects. The project is lacking sufficient documentation and the documentation website, which might hold it back from being an “Impact” project.
+The project should a “Growth” project, given its maturity, robustness, the number of projects (all Aries frameworks, Credo-TS, and others outside of Aries) in which it is embedded, and the myriad of production deployments of those projects. The project is lacking sufficient documentation / documentation website and has little business and marketing contributors. It is a project for developers, by developers.
 
-The following sub-sections cover how Askar meets OpenWallet Foundation maturity level criteria for Growth and Impact projects.
-
-### Growth
-
-* 2 TAC sponsors to champion the project and provide mentorship as needed.
-* Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
-* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
-    * Askar is largely complete for its intended goals, and has been productized.
-    * Continued evolution is occurring based on deployer learnings, and in the maintenance of wrappers for expanding opportunities for use.
-    * A documentation web site is needed. Users are currently sophisticated developers that know how to use keys.
-    * A security assessment would be a valuable addition. Askar is a layer up from the cryptography, and uses known cryptography and libraries, but an assessment of how it is using those capabilities would be valuable.
-* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
-    * Anyone using [Credo-TS](https://credo.js.org/), [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) and [ACA-Py](https://aca-py.org)
-    * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
-    * [Indicio, PBC](https://indicio.tech/)
-    * [AYANWORKS](https://www.ayanworks.com/)
-    * [DIDx](https://www.didx.co.za/)
-    * [Northern Block](https://northernblock.io/)
-    * Open Security and Identity inc.
-* Demonstrate a substantial ongoing flow of commits and merged contributions.
-    * 19 [Contributors](https://github.com/hyperledger/aries-askar/graphs/contributors)
-    * Steady flow of commits — indicative of a fully featured project.
-* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
-    * The community around Askar are those contributing to and maintaining the frameworks using Askar — ACA-Py, Credo-TS, etc.
-* Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
-* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
+The following sub-sections cover how Askar meets OpenWallet Foundation maturity level criteria for Growth projects.
 
 ### Impact
 
 * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than one-third is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
     * [Government of British Columbia](https://digital.gov.bc.ca/digital-trust/home/)
     * [Indicio, PBC](https://indicio.tech/)
-    * TBD
+    * [SICPA](https://www.sicpa.com/)
 * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
     * Start from the[ Aries Project Charter](https://docs.google.com/document/d/1F6RbR7xDaBt5CDJhqLJzR4c1pDJtyPGshp9fy6eVtSM/edit?usp=drive_link) and Aries[ TSC.md](https://github.com/hyperledger/aries/blob/main/TSC.md) and[ MAINTAINERS.md](https://github.com/hyperledger/aries/blob/main/MAINTAINERS.md) and evolve them to be Askar specific in the OWF context.
 * Have a healthy number of maintainers from at least two organizations. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
