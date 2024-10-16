@@ -2,57 +2,6 @@
 
 SD-JWT Javascript/Typescript Reference Implementation
 
-# Project Description
-
-This is the reference implmentation of [IETF SD-JWT specification](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/), [IETF SD-JWT VC spectification](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) and [Token Status List](https://datatracker.ietf.org/doc/draft-ietf-oauth-status-list/) in Javascript/Typescript.
-
-Hopae, a founding member of OpenWallet Foundation, is building wallet module in Javascript/Typescript and need this project as a core component.
-
-# Alignment with the OpenWallet Foundation Mission
-
-This library is for the Selective Disclosure capability which is one of the important building blocks of digital identity wallets.
-
-# Current Code of Conduct
-
-[OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)
-
-# TAC Sponsor
-
-@aceshim Ace Shim
-
-# Project License
-
-Apache 2.0
-
-# Source Control
-
-https://github.com/openwallet-foundation-labs/sd-jwt-js
-
-# Issue Tracker
-
-https://github.com/openwallet-foundation-labs/sd-jwt-js/issues
-
-# External Dependencies
-
-- js-base64
-
-# Release Methodology
-
-Project will be released on NPM. I have `@sd-jwt` organization on NPM for this project. Package name will be like `@sd-jwt/core`.
-
-# Maintainers
-
-Ace Shim ([Github](https://github.com/pensivej))
-Lukas Han ([Github](https://github.com/lukasjhan))
-Mirko Mollik ([Github](https://github.com/cre8))
-
-# Proposed Project Governance
-
-This will be maintained by Hopae, a founding member of OpenWallet Foundation.
-Ace, co-founder and CEO of Hopae, is leading the team.
-
-# Links to Documented Governance Practices
-
 # Preferred Maturity Level
 
 Growth
@@ -90,17 +39,54 @@ Growth
 - Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
 - Demonstrates how this project differs from existing projects in the Growth and Impact stages.
 
-# Communication Channels
+# Project Description
 
-OWF Discord
+This is the reference implmentation of [IETF SD-JWT specification](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/), [IETF SD-JWT VC spectification](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) and [Token Status List](https://datatracker.ietf.org/doc/draft-ietf-oauth-status-list/) in Javascript/Typescript.
 
-# Project Website
+Hopae, a founding member of OpenWallet Foundation, is building wallet module in Javascript/Typescript and need this project as a core component.
 
-https://sdjwt.js.org/
+# Alignment with the OpenWallet Foundation Mission
 
-# Social Media
+This library is for the Selective Disclosure capability which is one of the important building blocks of digital identity wallets.
 
-None
+# Code of Conduct
+
+[OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)
+
+# TAC Sponsor
+
+@aceshim Ace Shim
+
+# Project License
+
+Apache 2.0
+
+# Source Control
+
+https://github.com/openwallet-foundation-labs/sd-jwt-js
+
+# Issue Tracker
+
+https://github.com/openwallet-foundation-labs/sd-jwt-js/issues
+
+# External Dependencies
+
+- js-base64
+
+# Release Methodology
+
+Project will be released on NPM. I have `@sd-jwt` organization on NPM for this project. Package name will be like `@sd-jwt/core`.
+
+# Initial Maintainers
+
+Ace Shim ([Github](https://github.com/pensivej))
+Lukas Han ([Github](https://github.com/lukasjhan))
+Mirko Mollik ([Github](https://github.com/cre8))
+
+# Proposed Project Governance
+
+This will be maintained by Hopae, a founding member of OpenWallet Foundation.
+Ace, co-founder and CEO of Hopae, is leading the team.
 
 # Financial Sponsorship
 
