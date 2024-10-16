@@ -41,7 +41,7 @@ Growth
 
 # Project Description
 
-This is the reference implmentation of [IETF SD-JWT specification](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/), [IETF SD-JWT VC spectification](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) and [Token Status List](https://datatracker.ietf.org/doc/draft-ietf-oauth-status-list/) in Javascript/Typescript.
+This is the reference implementation of [IETF SD-JWT specification](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/), [IETF SD-JWT VC specification](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) and [Token Status List](https://datatracker.ietf.org/doc/draft-ietf-oauth-status-list/) in Javascript/Typescript.
 
 Hopae, a founding member of OpenWallet Foundation, is building wallet module in Javascript/Typescript and need this project as a core component.
 
