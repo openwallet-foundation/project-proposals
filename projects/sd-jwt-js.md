@@ -31,7 +31,7 @@ Growth
   - [Credhub](https://github.com/openwallet-foundation-labs/credhub)
   - [pex](https://github.com/Sphereon-Opensource/PEX)
   - [ssi-kit](https://github.com/Sphereon-Opensource/SSI-SDK)
-- Demonstrate a substantial ongoing flow of commits and merged contributions.
+- Demonstrate a substantial ongoing flow of commits and merged contributions. (2023-11-01 to 2024-10-16)
   - 12 [Contributors](https://github.com/openwallet-foundation-labs/sd-jwt-js/graphs/contributors) since project inception
   - [178 PRs merged](https://github.com/openwallet-foundation-labs/sd-jwt-js/pulls?q=is%3Apr+is%3Aclosed)
   - [Total 1.2M+ NPM Downloads](https://npm-stats-ecru.vercel.app/)
