@@ -55,7 +55,8 @@ This library is for the Selective Disclosure capability which is one of the impo
 
 # TAC Sponsor
 
-@aceshim Ace Shim
+- @aceshim Ace Shim
+- @skounis Stavros Kounis
 
 # Project License
 
