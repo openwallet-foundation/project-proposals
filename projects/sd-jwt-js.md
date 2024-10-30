@@ -79,9 +79,10 @@ Project will be released on NPM. I have `@sd-jwt` organization on NPM for this p
 
 # Initial Maintainers
 
-Ace Shim ([Github](https://github.com/pensivej))
-Lukas Han ([Github](https://github.com/lukasjhan))
-Mirko Mollik ([Github](https://github.com/cre8))
+- Ace Shim ([Github](https://github.com/pensivej))
+- Lukas Han ([Github](https://github.com/lukasjhan))
+- Mirko Mollik ([Github](https://github.com/cre8))
+- Brend ([Github](https://github.com/berendsliedrecht))
 
 # Proposed Project Governance
 
