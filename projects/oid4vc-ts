@@ -22,7 +22,7 @@ The library was created by Animo as part of the SPRIN-D Funke wallet competition
 
 # Alignment with the OpenWallet Foundation Mission
 
-The DCQL library provides a reusable library that is crucial to wallet interoperability. It is implementing the standards that are being adopted as part of the EU Digital Identity Wallet, as well as other regions in the world (such as California's drivers license project which also supports OID4VC).
+The OID4VC TypeScript library provides a reusable library that is crucial to wallet interoperability. It is implementing the standards that are being adopted as part of the EU Digital Identity Wallet, as well as other regions in the world (such as California's drivers license project which also supports OID4VC).
 
 The library is already being used by Credo, which is part of the reason why we think it's important this library is also contributed to OWF rather than managed by Animo.
 
