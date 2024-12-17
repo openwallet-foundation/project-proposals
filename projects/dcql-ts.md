@@ -8,9 +8,9 @@ Labs
 
 # Project Description
 
-The Digital Credentials Query Language (DCQL, pronounced [ˈdakl̩]) is a JSON-encoded query language that allows the Verifier to request Verifiable Presentations that match the query.
+The Digital Credentials Query Language (DCQL, pronounced [ˈdakl̩]) is a JSON-encoded query language that allows a verifier to request verifiable presentations that match a query.
 
-DCQL TypeScript is a generic, and low-level implementation of the query language. By providing it as a separate library from OpenID4VC we hope to see adoption of the library outside of the OpenID4VC set of standards (Credo is intending to adopt it for DIDComm protocols as replacement for DIF Presentation as well).
+DCQL TypeScript is a generic, and low-level implementation of the query language. By providing it as a separate library from OpenID4VC we hope to see adoption of the library outside of the OpenID4VC set of standards (Credo is intending to adopt it for DIDComm protocols as replacement for DIF Presentation Exchange as well).
 
 The library was created by Animo as part of the SPRIN-D Funke wallet competition, to experiment with the new query language added to the OpenID4VP specification.
 
