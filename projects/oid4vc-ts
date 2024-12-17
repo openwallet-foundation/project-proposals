@@ -73,7 +73,7 @@ We use changesets to write changelog entries, and a bot will create a pull reque
 
 The projects will mostly be managed by the existing Credo maintainers. Large decisions will be initially discussed as part of the Credo working group calls, but we would still like a dedicated discord channel. Later if desired by the community, the project can be more separated from the Credo project.
 
-The design of the project is mostly led by Timo Glastra, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra will also moslty take on general maintenance and releases of the library. Although Martin and Timo are both associated with Animo, Martin should be seen as indepdant mainainer of this library, not associated with Animo.
+The design of the project is mostly led by Timo Glastra, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra will also moslty take on general maintenance and releases of the library. Although Martin and Timo are both associated with Animo, Martin should be seen as independent maintainer of this library, not associated with Animo.
 
 # Financial Sponsorship
 
