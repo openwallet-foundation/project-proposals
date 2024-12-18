@@ -67,7 +67,7 @@ The library will be updated to changesets to write changelog entries, and a bot 
 
 The projects will mostly be managed by the existing Credo maintainers. Large decisions will be initially discussed as part of the Credo working group calls, but we would still like a dedicated discord channel. Later if desired by the community, the project can be more separated from the Credo project.
 
-The design of the project is mostly led by Berend Sliedrecht and Tom Lanser, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra and Berend Sliedrecht will moslty take on general maintenance and releases of the library.
+The design of the project is mostly led by Berend Sliedrecht and Tom Lanser, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra and Berend Sliedrecht will mostly take on general maintenance and releases of the library.
 
 # Financial Sponsorship
 
