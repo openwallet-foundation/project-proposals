@@ -16,7 +16,7 @@ Having experience with integration of these standards into another OWF project, 
 
 In the coming months this project will be extended with support for OpenID for Verifiable Presentations and related specifications.
 
-The goal of this library is to stay as agnostic as possible to the credential formats being used. This allows to keep the dependencies minimal, while also making it less opiniated. Depending libraries or frameworks (such as Credo) can provide the needed credential formats, crypto suites, and persistance.
+The goal of this library is to stay as agnostic as possible to the credential formats being used. This keeps the dependencies minimal, while also making it less opinionated. Dependent libraries or frameworks (such as Credo) can provide the needed credential formats, crypto suites, and persistence.
 
 The library was created by Animo as part of the SPRIN-D Funke wallet competition.
 
