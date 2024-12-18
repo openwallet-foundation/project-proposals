@@ -14,7 +14,7 @@ OpenID Federation defines basic components used to build multilateral federation
 
 OpenID Federation TypeScript is a generic, and low-level implementation of the OpenID Federation specification, with a focus on [OpenID Federation Wallet Architecture](https://openid.net/specs/openid-federation-wallet-1_0.html). Currently it provides APIs for creating and resolving of entity configuration and statements. In the coming months support will be added for metadata policies and trust marks.
 
-The goal of this library is to provide minimal and reusable primitives for building a federation client or server. This allows to keep the dependencies minimal, while also making it less opiniated. Depending libraries or frameworks (such as Credo) can provide the needed hosting of endpoints, signing callbacks, and persistance.
+The goal of this library is to provide minimal and reusable primitives for building a federation client or server. This keeps the dependencies minimal, while also making it less opinionated. Dependent libraries or frameworks (such as Credo) can provide the needed hosting of endpoints, signing callbacks, and persistence.
 
 The library was created by Animo as part of the SPRIN-D Funke wallet competition.
 
