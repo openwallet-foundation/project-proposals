@@ -24,7 +24,7 @@ Will adopt OWF code of conduct.
 
 # TAC Sponsor
 
-- TDB
+- Stephen Curran
 
 # Project License
 
