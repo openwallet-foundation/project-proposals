@@ -32,7 +32,7 @@ Will adopt OWF code of conduct.
 
 # TAC Sponsor
 
-- TDB
+Stephen Curran
 
 # Project License
 
@@ -68,12 +68,13 @@ We use changesets to write changelog entries, and a bot will create a pull reque
 - Timo Glastra - [@TimoGlastra](https://github.com/TimoGlastra) - Creator of the library, maintainer of Credo (that leverages this project)
 - Martin Auer - [@auer-martin](https://github.com/auer-martin) - maintainer of Credo, experienced with OpenID4VC standards
 - Berend Sliedrecht - [@berendsliedrecht](https://github.com/berendsliedrecht) - maintainer of Credo
+- Alexis Delamare Deboutteville [@marsouin](https://github.com/marsouin) - verifiables.com
 
 # Proposed Project Governance
 
 The projects will mostly be managed by the existing Credo maintainers. Large decisions will be initially discussed as part of the Credo working group calls, but we would still like a dedicated discord channel. Later if desired by the community, the project can be more separated from the Credo project.
 
-The design of the project is mostly led by Timo Glastra, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra will also mostly take on general maintenance and releases of the library. Although Martin and Timo are both associated with Animo, Martin should be seen as independent maintainer of this library, not associated with Animo.
+The design of the project is mostly led by Timo Glastra, who created this library for Animo as part of the SPRIN-D Funke wallet competition. Timo Glastra will also mostly take on general maintenance and releases of the library. Alexis Delamare Deboutteville has indicated he and his company are also interested in contributing and taking on a maintainer role for the project. Although Martin and Timo are both associated with Animo, Martin should be seen as independent maintainer of this library, not associated with Animo.
 
 # Financial Sponsorship
 
