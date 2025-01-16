@@ -64,7 +64,8 @@ TBD. hopefully will be released on NPM under OWF NPM organization
 # Initial Maintainers
 
 - Lukas Han (Hopae) - [Github](https://github.com/lukasjhan)
-- (NTT) - [Github]()
+- Kai Ootsuki(NTT Digital) - [Github](https://github.com/Dtitkaio)
+- Takashi YAMAMOTO (NTT Digital) - [Github](https://github.com/Takashiyamam)
 
 # Proposed Project Governance
 
