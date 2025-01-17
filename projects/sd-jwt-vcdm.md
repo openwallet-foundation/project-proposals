@@ -8,7 +8,7 @@ Labs
 
 # Project Description
 
-This project aims to provide a reference implementation of the SD-JWT VC DM (Selective Disclosure JWT Verifiable Credentials Data Model) specification in TypeScript/JavaScript. SD-JWT VC DM combines the best features of SD-JWT VC and W3C VCDM, offering:
+This project aims to provide a reference implementation of the [SD-JWT VC DM](https://github.com/danielfett/sd-jwt-vc-dm) (Selective Disclosure JWT Verifiable Credentials Data Model) specification in TypeScript/JavaScript. SD-JWT VC DM combines the best features of SD-JWT VC and W3C VCDM, offering:
 
 - Selective disclosure capabilities with compact payloads
 - Support for schemas and vocabularies
