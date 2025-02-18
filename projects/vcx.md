@@ -39,12 +39,13 @@ VCX supports the OWF's goals by providing an extensive suite of tools to assist 
 
 # Code of Conduct
 
-VCX currently follows the Hyperledger Code of Conduct, which is what the OWF code of conduct is based on.
+VCX currently follows the [Hyperledger Code of Conduct](https://github.com/hyperledger/aries-vcx/blob/main/CODE_OF_CONDUCT.md), which is what the OWF code of conduct is based on. 
+We are happy to directly adopt the [OpenWallet Foundation Code of Conduct](https://tac.openwallet.foundation/governance/code-of-conduct/) if desired.
 
 # TAC Sponsor
 
-Stephen Curran
-Second Sponser - TBD
+* @swcurran Stephen Curran
+* @aceshim Jaehoon (Ace) Shim
 
 # Project License
 
@@ -63,8 +64,6 @@ https://github.com/hyperledger/aries-vcx/issues
 # External Dependencies
 
 The VCX dependency list is maintained in the [source repository](https://github.com/hyperledger/aries-vcx/blob/main/Cargo.toml). All are open source and we believe (but to be verified) that the majority use the Apache 2 License.
-
-TODO - merge workspace dep related PRs for easier dep view
 
 # Release Methodology
 
