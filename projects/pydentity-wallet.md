@@ -5,22 +5,22 @@ PyDentity Wallet
 Labs stage
 
 # Project Description
-The PyDentity Wallet is a Progressive Web Application for providing [acapy](https://github.com/openwallet-foundation/acapy) access to mobile wallet features.
+The PyDentity Wallet is a Progressive Web Application for providing [acapy](https://github.com/openwallet-foundation/acapy) access to mobile wallet features and browser API access.
 
-The wallet provides a frontend for a multitenant acapy instance.
+The wallet provides a frontend for a multitenant acapy instance which can be bound to a local mobile device storage.
 
 The app works with iOS and Android and allows users to easily manage an acapy subwallet.
 
 Whenver possible, it uses existing open standards from W3C, IETF, DIF, and other open standards groups.
 
 # Alignment with the OpenWallet Foundation Mission
-This project aligns with the OWF mission, because it's an open source example implementation of wallet-related open standards and enhances an existing OWF impact project.
+This project aligns with the OWF mission, because it's an open source implementation of wallet-related open standards and enhances an existing OWF impact project.
 
 # Code of Conduct
-[OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)?_
+[OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)
 
 # TAC Sponsor
-_Include the name of a sponsor from the TAC, if identified (a sponsor helps mentor projects)._
+[Stephen Curran](https://github.com/swcurran)
 
 # Project License
 Apache 2.0
@@ -33,8 +33,8 @@ N/A (not applicable), will track issues through the new GH project.
 
 # External Dependencies
 [Tabler](https://github.com/tabler/tabler) ([MIT](https://github.com/tabler/tabler/blob/dev/LICENSE))
-[html5-qrcode](https://github.com/mebjas/html5-qrcode)
 Open Sourced Python Packages, managed with poetry (see pyproject.toml)
+Open Sourced Javascript Libraries
 
 # Release Methodology
 Will have semantic versionning, published on gh packages. It can be installed natively from a mobile broswer.
@@ -42,6 +42,9 @@ Possible to release a version on iOS/Android.
 
 # Initial Maintainers
 - [Patrick St-Louis](https://github.com/PatStLouis)
+- [Jamie Hale](https://github.com/jamshale)
+- [Emiliano Suñé](https://github.com/esune)
+- [Lucas O'Neil](https://github.com/loneil)
 
 # Proposed Project Governance
 Follow TAC advice.
