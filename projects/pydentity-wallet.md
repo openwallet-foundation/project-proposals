@@ -33,7 +33,9 @@ N/A (not applicable), will track issues through the new GH project.
 
 # External Dependencies
 [Tabler](https://github.com/tabler/tabler) ([MIT](https://github.com/tabler/tabler/blob/dev/LICENSE))
+
 Open Sourced Python Packages, managed with poetry (see pyproject.toml)
+
 Open Sourced Javascript Libraries
 
 # Release Methodology
