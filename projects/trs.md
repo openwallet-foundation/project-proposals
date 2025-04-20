@@ -65,8 +65,8 @@ TBD
 
 # Initial Maintainers
 
-- Lukas Han ([Github](https://github.com/lukasjhan))
-- Seohee Park ([Github](https://github.com/dvlprsh))
+- Lukas Han ([Github](https://github.com/lukasjhan)) - Hopae Inc.
+- Seohee Park ([Github](https://github.com/dvlprsh)) - Hopae Inc.
 
 # Proposed Project Governance
 
