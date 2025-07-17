@@ -59,7 +59,7 @@ Athan Massouras (@Athan13)
 
 # Proposed Project Governance
 
-Will be led by the team at Indicio and managed by me (Athan).
+Will be led by the team at Indicio and managed by Athan Massouras, a member of that team.
 
 
 # Financial Sponsorship
