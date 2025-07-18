@@ -1,16 +1,16 @@
 # Project Name
-ACA-py Minimal Example (AME)
+ACA-Py Minimal Example (AME)
 
 # Preferred Maturity Level
 Labs (fits under "long-established projects with minimal resource needs").
 
 # Project Description
 
-AME is a tool for creating a minimal reproducible instance of ACA-py, allowing users to quickly reproduce a bug or demo a feature with a simple script. It contains a hackable controller able to interact with an ACA-py instance, and some pre-defined protocols that cause two ACA-py instances to interact.
+AME is a tool for creating a minimal reproducible instance of ACA-Py, allowing users to quickly reproduce a bug or demo a feature with a simple script. It contains a hackable controller able to interact with an ACA-Py instance, and some pre-defined protocols that cause two ACA-Py instances to interact.
 
 # Alignment with the OpenWallet Foundation Mission
 
-This project hopes to support the OWF's mission to promote the development of digital wallets by providing a helpful tool for developers using ACA-py to interact with it quickly and easily.
+This project hopes to support the OWF's mission to promote the development of digital wallets by providing a helpful tool for developers using ACA-Py to interact with it quickly and easily.
 
 It has been used for these purposes by Indicio (e.g. [here](https://github.com/Indicio-tech/acapy-did-indy/blob/feat/anon-creds/demo/demo.py)), as well as by the broader community (e.g. [here](https://github.com/openwallet-foundation/acapy/issues/3624#issuecomment-2809561863)).
 
