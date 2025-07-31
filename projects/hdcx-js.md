@@ -8,7 +8,7 @@ Labs
 
 # Project Description
 
-hDCX is a lightweight TypeScript wallet core SDK that simplifies digital credential management with few core operations. The SDK provides cross-platform support (Web, React Native, Node.js) while maintaining full compliance with modern standards including eIDAS 2.0, W3C VCDM 2.0, SD-JWT VC, and OIDC4VCI/VP.
+hDCX-js is a lightweight, abstracted Wallet SDK designed for developers to build interoperable digital wallets without deep expertise in digital identity standards. The SDK provides cross-platform support (Web, React Native, Node.js) while maintaining full compliance with modern standards including eIDAS 2.0, W3C VCDM 2.0, SD-JWT VC, and OIDC4VCI/VP.
 
 # Alignment with the OpenWallet Foundation Mission
 
