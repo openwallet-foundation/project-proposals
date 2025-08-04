@@ -15,7 +15,7 @@ What it is and what it does: Multipaz provides a complete and comprehensive set 
 *   Development of multiplatform libraries for Android and iOS, with plans for WearOS/WatchOS companion apps. This involves sharing 99% of the code between Android and iOS versions, with only low-level Bluetooth stack implemented differently.
 *   Offers capabilities such as a cloud secure area reference implementation, dual issuance for credentials, and a Zero Knowledge Proof (ZKP) prototype. It also supports mDoc direct access, enabling access to IDs when the device is off.
 
-Why it is valuable: The mission of Multipaz is "to build useful resources that move the digital credential ecosystem forward in a private, secure, and scalable way". It addresses key problems in digital identity, including interoperability, security & privacy, and the multitude of choices in the ecosystem.
+Why it is valuable: The mission of Multipaz is to build useful resources that move the digital credential ecosystem forward in a private, secure, and scalable way. It addresses key problems in digital identity, including interoperability, security & privacy, and the multitude of choices in the ecosystem.
 
 *   By offering an all-encompassing SDK, Multipaz significantly lowers the barrier to entry for private and public entities looking to build their own digital identity solutions or integrate with existing ones. This is especially valuable for countries without a clear path forward for digitizing national IDs.
 *   Multipaz aims to drive down certification costs for the entire digital identity ecosystem by making its code open-source and widely used for testing. Its open-source nature allows many others to use internal forks or test against Multipaz implementations as a sanity check.
