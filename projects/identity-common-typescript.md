@@ -21,6 +21,8 @@ The goal of the project is to stay lightweight (keep dependencies to a minimum),
 
 By providing a common set of types and utilities, this project helps ensure interoperability between different identity solutions. It supports the OpenWallet Foundation's mission to foster collaboration and standardization in the identity space, making it easier for developers to build compatible and robust identity applications.
 
+There is already intention for the `sd-jwt-js`, `oid4vc-ts`, `openid-federation-ts` and `credo-ts` libraries under OWF to update to the common library. For example an implementation of the JOSE/JWT standard has been made 3 times in those four libraries.
+
 # Code of Conduct
 
 [OpenWallet Foundation code of conduct](https://tac.openwallet.foundation/governance/code-of-conduct/)
