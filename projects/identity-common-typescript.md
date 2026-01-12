@@ -49,7 +49,7 @@ none
 
 # Release Methodology
 
-Need to check if releases are per package or monorepo wide.
+Managed per library using semantic versioning. Releases will be published to npm.
 
 # Initial Maintainers
 
