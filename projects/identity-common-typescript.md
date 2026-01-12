@@ -49,7 +49,7 @@ none
 
 # Release Methodology
 
-Managed per library using semantic versioning. Releases will be published to npm.
+Managed per library using semantic versioning in a monorepo. Releases will be published to npm.
 
 # Initial Maintainers
 
