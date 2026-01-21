@@ -100,7 +100,7 @@ Apache License 2.0
 
 ## Source Control
 
-- **Current Repository**: https://github.com/ajna-inc/essi-studio
+- **Current Repository**: https://github.com/Ajna-inc/essi.studio
 
 ## Issue Tracker
 
