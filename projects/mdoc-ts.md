@@ -4,7 +4,9 @@ mdoc-ts
 
 # Preferred Maturity Level
 
-lab
+Growth
+
+The library has been in active development for a few years already, has been tested against dozens of implementations, and is being used in production. We think the library is past the lab stage.
 
 # Project Description
 
