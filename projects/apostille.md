@@ -1,14 +1,14 @@
-# ESSI Studio
+# Apostille
 
 ## Project Name
 
-ESSI Studio (Enterprise Self-Sovereign Identity Studio)
+Apostille
 
 ## Preferred Maturity Level
 
 Labs
 
-ESSI Studio is a comprehensive credential management platform that is production-ready but seeking community adoption and collaboration within the OWF ecosystem. As a Labs project, we aim to:
+Apostille is a comprehensive credential management platform that is production-ready but seeking community adoption and collaboration within the OWF ecosystem. As a Labs project, we aim to:
 
 - Gain visibility within the OWF community
 - Collaborate with related projects (Credo-ts, Bifold Wallet, ACA-Py)
@@ -17,7 +17,7 @@ ESSI Studio is a comprehensive credential management platform that is production
 
 ## Project Description
 
-ESSI Studio is a comprehensive open-source platform for issuing, managing, and verifying digital credentials built on open standards. It provides a complete solution for organizations to implement Self-Sovereign Identity (SSI) and Verifiable Credentials infrastructure.
+Apostille is a comprehensive open-source platform for issuing, managing, and verifying digital credentials built on open standards. It provides a complete solution for organizations to implement Self-Sovereign Identity (SSI) and Verifiable Credentials infrastructure.
 
 ### Core Capabilities
 
@@ -45,7 +45,7 @@ ESSI Studio is a comprehensive open-source platform for issuing, managing, and v
 ### Architecture
 
 ```
-essi-studio/
+apostille/
 ├── frontend/                    # Next.js 15 frontend application
 │   ├── app/                     # App router pages and components
 │   └── lib/                     # State management and utilities
@@ -74,21 +74,21 @@ essi-studio/
 
 ## Alignment with the OpenWallet Foundation Mission
 
-ESSI Studio strongly aligns with OWF's mission to develop secure, interoperable, and privacy-preserving digital wallet technology:
+Apostille strongly aligns with OWF's mission to develop secure, interoperable, and privacy-preserving digital wallet technology:
 
-1. **Interoperability**: ESSI Studio implements multiple open standards (OID4VCI, OID4VP, DIDComm, OpenBadges 3.0, ISO 18013-5) enabling interoperability across different wallet ecosystems. It is designed to work with OWF wallets like Bifold.
+1. **Interoperability**: Apostille implements multiple open standards (OID4VCI, OID4VP, DIDComm, OpenBadges 3.0, ISO 18013-5) enabling interoperability across different wallet ecosystems. It is designed to work with OWF wallets like Bifold.
 
-2. **Built on OWF Projects**: ESSI Studio is built on top of Credo-ts (formerly Aries Framework JavaScript), an OWF Growth project. It uses OWF Askar for secure wallet storage. This demonstrates the composability of OWF projects.
+2. **Built on OWF Projects**: Apostille is built on top of Credo-ts (formerly Aries Framework JavaScript), an OWF Growth project. It uses OWF Askar for secure wallet storage. This demonstrates the composability of OWF projects.
 
-3. **Open Source Collaboration**: As an Apache 2.0 licensed project, ESSI Studio encourages collaboration and contributions from the broader identity community.
+3. **Open Source Collaboration**: As an Apache 2.0 licensed project, Apostille encourages collaboration and contributions from the broader identity community.
 
 4. **Privacy & Security**: The platform implements privacy-preserving credential formats (AnonCreds, SD-JWT), secure key management via Askar, and post-quantum cryptography readiness.
 
-5. **User-Centric Identity**: ESSI Studio enables organizations to issue credentials that users control in their own wallets, supporting the self-sovereign identity paradigm.
+5. **User-Centric Identity**: Apostille enables organizations to issue credentials that users control in their own wallets, supporting the self-sovereign identity paradigm.
 
 ## Code of Conduct
 
-ESSI Studio will adopt the [OpenWallet Foundation Code of Conduct](https://tac.openwallet.foundation/governance/code-of-conduct/).
+Apostille will adopt the [OpenWallet Foundation Code of Conduct](https://tac.openwallet.foundation/governance/code-of-conduct/).
 
 ## TAC Sponsor
 
@@ -158,11 +158,11 @@ All dependencies use OSI-approved open source licenses (Apache 2.0 or MIT).
 
 ## Related OWF Projects
 
-ESSI Studio has strong relationships with existing OWF projects:
+Apostille has strong relationships with existing OWF projects:
 
 | Project | Relationship |
 |---------|--------------|
-| **Credo-ts** | Core dependency - ESSI Studio is built on Credo-ts |
+| **Credo-ts** | Core dependency - Apostille is built on Credo-ts |
 | **Askar** | Wallet storage backend |
 | **Bifold Wallet** | Compatible wallet for credential holders |
 | **ACA-Py** | Complementary server-side agent (Python vs TypeScript) |
@@ -170,9 +170,9 @@ ESSI Studio has strong relationships with existing OWF projects:
 
 ## Differentiation
 
-ESSI Studio differentiates from existing OWF projects:
+Apostille differentiates from existing OWF projects:
 
-1. **Complete Platform vs Framework**: While Credo-ts is a framework, ESSI Studio is a complete, deployable application with UI
+1. **Complete Platform vs Framework**: While Credo-ts is a framework, Apostille is a complete, deployable application with UI
 2. **Visual Credential Designer**: Unique drag-and-drop credential card designer
 3. **Multi-Protocol Support**: Single platform supporting DIDComm, OID4VCI/VP, OpenBadges, and mDL
 4. **Enterprise Focus**: Built for organizational deployment with multi-tenancy
