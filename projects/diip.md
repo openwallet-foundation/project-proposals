@@ -35,7 +35,7 @@ By bringing DIIP under the OpenWallet Foundation, the project aims to further st
 DIIP aligns with the OpenWallet Foundation mission by enabling practical interoperability between wallet implementations through open standards and shared interoperability profiles.
 
 # Code of Conduct
-DIIP will adopt the OpenWallet Foundation code of conduct
+DIIP will adopt the OpenWallet Foundation code of conduct.
 
 # TAC Sponsor
 Stephen Curran
