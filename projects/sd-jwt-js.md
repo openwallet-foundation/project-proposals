@@ -2,6 +2,8 @@
 
 SD-JWT Javascript/Typescript Reference Implementation
 
+> This project is getting merged in identity-common-ts
+
 # Preferred Maturity Level
 
 Growth
